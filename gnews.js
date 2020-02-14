@@ -14,6 +14,8 @@ import { link } from "fs"
 https://news.google.com/?hl=en-GB&gl=GB&ceid=GB%3Aen
 https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pIUWlnQVAB?hl=en-GB&gl=GB&ceid=GB%3Aen
 
+https://news.google.com/search?q=apple&hl=en-IN&gl=IN&ceid=IN:en
+
 
 a = document.querySelector('.xrnccd.F6Welf.R7GTQ')
 link : a.querySelector('article').getAttribute('jslog').match(/\bhttps?:\/\/\S+/gi);
