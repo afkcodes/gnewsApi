@@ -1,0 +1,1381 @@
+[
+  {
+    "id": 0,
+    "newsTitle": "U.S. Will Evacuate Americans From Cruise Ship Quarantined in Japan",
+    "newsDesc": "YOKOHAMA, Japan — The United States will evacuate Americans from the cruise ship that has been quarantined for more than a week in Japan because of ...",
+    "thumbNail": "https://lh3.googleusercontent.com/ZtCfxRWjTGFCB0I7uT5bgvMoIoFjHM91K_pAVYjpH_RciA3GqOZCkz-xWsTtU74LsxwZj9jmx6FyC5n-r2E=-p-h200-w200",
+    "source": "The New York Times",
+    "sourceRef": "https://www.nytimes.com/2020/02/15/world/asia/japan-cruise-ship-coronavirus.html;",
+    "timeStamp": 1581749880000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Fear and Boredom Aboard the Quarantined Coronavirus Cruise Ship",
+        "relDesc": "TOKYO—The pools, hot tubs and bars of the Diamond Princess emptied out on Feb. 5, when authorities quarantined the luxury cruise ship at a Yokohama dock.",
+        "relSource": "The Wall Street Journal",
+        "relSourceRef": "https://news.google.com/articles/CAIiEMo5YC4pVPDJMtsvYMMVfnYqFwgEKg8IACoHCAow1tzJATDnyxUw54IY?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581733560000
+      },
+      {
+        "id": 1,
+        "relTitle": "Diamond Princess passengers given Valentine's Day gifts amid coronavirus outbreak",
+        "relDesc": "American passenger Matthew Smith — who has surprisingly maintained his positive attitude while stuck on off the coast of Japan for 10 days — posted photos of ...",
+        "relSource": "New York Post ",
+        "relSourceRef": "https://news.google.com/articles/CAIiEB9IkYu1vUCSwf00bcSeIxoqGAgEKg8IACoHCAowhK-LAjD4ySww69W0BQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581716760000
+      },
+      {
+        "id": 2,
+        "relTitle": "Coronavirus dispatch: Life on a quarantined cruise ship is like ‘Groundhog Day’",
+        "relDesc": "Gay Courter is a novelist who lives in Florida. Nine blurry days have passed since the cruise we boarded last month was quarantined because of the coronavirus ...",
+        "relSource": "The Washington Post",
+        "relSourceRef": "https://news.google.com/articles/CAIiEBtKWTAmhHOZvMiXJuWKOhAqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581731220000
+      },
+      {
+        "id": 3,
+        "relTitle": "U.S. to Evacuate Some Americans From Diamond Princess Cruise Ship",
+        "relDesc": "The U.S. is preparing to evacuate American citizens from aboard the Diamond Princess cruise ship, the site of the biggest outbreak of the novel coronavirus ...",
+        "relSource": "The Wall Street Journal",
+        "relSourceRef": "https://news.google.com/articles/CAIiENZ__AhDSuZXcEaLypUhMtkqGAgEKg8IACoHCAow1tzJATDnyxUwiK20AQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581744000000
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "newsTitle": "Border Patrol Will Deploy Elite Tactical Agents to Sanctuary Cities",
+    "newsDesc": "The Trump administration is deploying law enforcement tactical units from the southern border as part of a supercharged arrest operation in sanctuary cities ...",
+    "thumbNail": "https://lh3.googleusercontent.com/yHb-oVZoF9cWqqSPSGf_0jW4TvYHSfCmP3udsFwlnaY1c6UUAmavFZyceJF-Q001Ft_4Rnie2EwmgJgPb8o=-p-h200-w200",
+    "source": "The New York Times",
+    "sourceRef": "https://www.nytimes.com/2020/02/14/us/Border-Patrol-ICE-Sanctuary-Cities.html;",
+    "timeStamp": 1581706020000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Trump is sending armed tactical forces to sanctuary cities",
+        "relDesc": "The Trump administration is reportedly sending armed and highly trained law enforcement units to sanctuary cities across the country to support US Immigration ...",
+        "relSource": "Vox.com",
+        "relSourceRef": "https://news.google.com/articles/CAIiEBdGakm23OntXdB-WNYyxyQqGAgEKg8IACoHCAowlOzSATCaiDUwz9XoBQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581723000000
+      },
+      {
+        "id": 1,
+        "relTitle": "Trump administration to deploy Border Patrol officers to sanctuary cities",
+        "relDesc": "The Trump administration will deploy 100 tactical Border Patrol officers to work with Immigration and Customs Enforcement in 10 so-called sanctuary cities ...",
+        "relSource": "NBC News",
+        "relSourceRef": "https://news.google.com/articles/CAIiEAlDlwZlqqfqicvHgoy2GtEqGQgEKhAIACoHCAowvIaCCzDnxf4CMP2F8gU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581722640000
+      },
+      {
+        "id": 2,
+        "relTitle": "The feds must investigate an ICE shooting: Federal immigration authorities cannot use deadly force with impuni",
+        "relDesc": "Last Thursday, while carrying out an arrest in Brooklyn, federal immigration agents shot a tourist in the face and then barred the tourist's mother and lawyers from ...",
+        "relSource": "New York Daily News",
+        "relSourceRef": "https://news.google.com/articles/CBMihAFodHRwczovL3d3dy5ueWRhaWx5bmV3cy5jb20vb3Bpbmlvbi9ueS1vcGVkLXRoZS1mZWRzLW11c3QtaW52ZXN0aWdhdGUtYW4taWNlLXNob290aW5nLTIwMjAwMjE0LXpobHozd2YyZGZla2xsZnpzb2d4a2R6cWE0LXN0b3J5Lmh0bWzSAZMBaHR0cHM6Ly93d3cubnlkYWlseW5ld3MuY29tL29waW5pb24vbnktb3BlZC10aGUtZmVkcy1tdXN0LWludmVzdGlnYXRlLWFuLWljZS1zaG9vdGluZy0yMDIwMDIxNC16aGx6M3dmMmRmZWtsbGZ6c29neGtkenFhNC1zdG9yeS5odG1sP291dHB1dFR5cGU9YW1w?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581697500000
+      },
+      {
+        "id": 3,
+        "relTitle": "The Supreme Court in the Mean Season",
+        "relDesc": "A summary decision kicks an untold number of legal immigrants off the path to citizenship.",
+        "relSource": "The New York Times",
+        "relSourceRef": "https://news.google.com/articles/CAIiEEIaQQoyTw_Wm9UrmP6xArMqFwgEKg8IACoHCAowjuuKAzCWrzwwqIQY?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581589980000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "newsTitle": "Beijing orders mandatory coronavirus quarantine as US moves to evacuate passengers from cruise ship",
+    "newsDesc": "Hong Kong (CNN) Beijing has ordered a mandatory 14-day quarantine for travelers returning to the city, with novel coronavirus cases continuing to rise in China ...",
+    "thumbNail": "https://lh3.googleusercontent.com/AE06blbOLeXKtcgYMYzFT-SaffVn4abTZsP3WI9hTZn3KuhSW222C4N_wthhlQKgK49WEdVr5vyS2eTU-w=-p-h200-w200",
+    "source": "CNN",
+    "sourceRef": "https://www.cnn.com/2020/02/15/asia/coronavirus-covid-19-update-intl-hnk/index.html;",
+    "timeStamp": 1581753780000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Coronavirus: Beijing orders 14-day quarantine for returnees",
+        "relDesc": "Beijing has ordered everyone returning to the city to go into quarantine for 14 days or risk punishment in the latest attempt to contain the deadly new coronavirus, ...",
+        "relSource": "BBC News",
+        "relSourceRef": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWNoaW5hLTUxNTA5MjQ40gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWNoaW5hLTUxNTA5MjQ4?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581705620000
+      },
+      {
+        "id": 1,
+        "relTitle": "Coronavirus Outbreak: Here's What We Know As Of Friday : Goats and Soda",
+        "relDesc": "Chinese officials also said that six health workers have died from the disease now known as COVID-19. Meanwhile, the number of confirmed cases worldwide ...",
+        "relSource": "NPR",
+        "relSourceRef": "https://news.google.com/articles/CAIiEKlQN44P_5KG6FUrhbtPUhUqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581709860000
+      },
+      {
+        "id": 2,
+        "relTitle": "Beijing Tightens Quarantine Rules in Coronavirus Battle",
+        "relDesc": "The authorities in China tightened their coronavirus quarantine rules for Beijing on Friday, saying that all residents returning from outside the capital city would ...",
+        "relSource": "The New York Times",
+        "relSourceRef": "https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjAvMDIvMTQvd29ybGQvYXNpYS9iZWlqaW5nLXF1YXJhbnRpbmUtY29yb25hdmlydXMtcnVsZXMuaHRtbNIBW2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjAvMDIvMTQvd29ybGQvYXNpYS9iZWlqaW5nLXF1YXJhbnRpbmUtY29yb25hdmlydXMtcnVsZXMuYW1wLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581719400000
+      },
+      {
+        "id": 3,
+        "relTitle": "Is China losing control of the coronavirus outbreak? I Inside Story",
+        "relDesc": "",
+        "relSource": "Al Jazeera English",
+        "relSourceRef": "https://news.google.com/articles/CCAiC0dfMDRLTWhPYXZnmAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581701896000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "newsTitle": "Hannity praises Barr intervention in Stone case: 'I am cautiously optimistic that real justice will be done'",
+    "newsDesc": "Sean Hannity weighed in Friday on former Trump associate Roger Stone, Attorney General William Barr and former acting FBI director Andrew McCabe, saying ...",
+    "thumbNail": "https://lh6.googleusercontent.com/proxy/mtXlA7t6O-US4RAJB5DWyK9-EsB93eIHwDX0foySiSzivtZEtxj1Hi8VURRRJ3FBGy3g9KF_qzk5jAVfCtEx-YOoqeP5_aVKY4xoYMlMlcZwyeFTLri9WyefaMIinF6YbSEVaL7h9Y-2h0Y0C80hmVspF9XZ0IPrt2v52oHkbyJpy4tUR8h5mEPp-ojaTy8MxnnQYVj2OoxA2PUmynNTzV9aQQQ=-p-h200-w200",
+    "source": "Fox News",
+    "sourceRef": "https://www.foxnews.com/media/sean-hannity-on-ag-barrs-moves-i-am-cautiously-optimistic-that-real-justice-will-be-done;",
+    "timeStamp": 1581739111000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Barr's stunning Trump rebuke sparks debate over his true motives",
+        "relDesc": "William Barr's sharp public rebuke of Donald Trump's legal meddling was an astonishingly rare show of dissent from a top Cabinet chieftain -- but the attorney ...",
+        "relSource": "CNN",
+        "relSourceRef": "https://news.google.com/articles/CAIiEFyI6KmbyNUnV1KS4Z5gCrYqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581697620000
+      },
+      {
+        "id": 1,
+        "relTitle": "Barr fires warning shot at Trump in new interview",
+        "relDesc": "",
+        "relSource": "CBS This Morning",
+        "relSourceRef": "https://news.google.com/articles/CCAiCzUweW5HRnZ3ZVlBmAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581682814000
+      },
+      {
+        "id": 2,
+        "relTitle": "Editorial: Attorney General William Barr’s declaration of independence from Trump",
+        "relDesc": "In Washington, cynicism often passes for wisdom, and there was plenty of the former going around after Attorney General William Barr publicly rebuked the ...",
+        "relSource": "Chicago Tribune",
+        "relSourceRef": "https://news.google.com/articles/CAIiECFup98g-Q7eJetF4Mf8ZyUqFwgEKg4IACoGCAowlPVUMLXBDDDRoYYD?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581720840000
+      },
+      {
+        "id": 3,
+        "relTitle": "Why Is William Barr Really Criticizing Donald Trump?",
+        "relDesc": "In the spring of 2001, historians interviewed William Barr about his tenure as Attorney General in the George H. W. Bush Administration. The multi-hour ...",
+        "relSource": "The New Yorker",
+        "relSourceRef": "https://news.google.com/articles/CAIiED6v2x2NBJz_9dKpa6ppOZsqGQgEKhAIACoHCAowjMqjCjCJhZwBMNWYrQM?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581714182000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "newsTitle": "Roger Stone makes 2nd bid for new trial",
+    "newsDesc": "Roger Stone, the longtime confidant of Donald Trump whose criminal conviction angered the president and led to the turmoil engulfing the Justice Department, ...",
+    "thumbNail": "https://lh3.googleusercontent.com/fAYuXykolO0a1Ixn_c7oWduJD80GmLu_3yPGGG0Na2IYOH_vV5ebO8Ar9n1ncP9lHnh_Kd6G8W573YAD6wU=-p-h200-w200",
+    "source": "POLITICO",
+    "sourceRef": "https://www.politico.com/news/2020/02/14/roger-stone-second-bid-new-trial-115331;",
+    "timeStamp": 1581725040000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Roger Stone makes another request for a new trial after tumultuous week",
+        "relDesc": "Roger Stone on Friday appears to have asked again for a new trial, according to his court case's docket and an update from the judge.",
+        "relSource": "CNN",
+        "relSourceRef": "https://news.google.com/articles/CAIiECHeTcerWYqGFL_rkKi10vgqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581724500000
+      },
+      {
+        "id": 1,
+        "relTitle": "Trump talks Roger Stone case, Ukraine call, more in Geraldo Rivera interview on WTAM",
+        "relDesc": "CLEVELAND, Ohio -- WTAM radio host Geraldo Rivera interviewed President Donald Trump on his podcast Thursday. The two men, who are longtime friends, ...",
+        "relSource": "cleveland.com",
+        "relSourceRef": "https://news.google.com/articles/CAIiELixPICQDoQNzVKxSwP_jtgqGQgEKhAIACoHCAow3qT_CjC1tPgCMLS-nwY?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581691200000
+      },
+      {
+        "id": 2,
+        "relTitle": "Tucker Carlson: Why the Roger Stone case should horrify you, whether you’re Republican or Democrat",
+        "relDesc": "America is a great country precisely to the extent that it's a fair country. Fairness is the most important American idea. It's the foundation of all others and equality ...",
+        "relSource": "Fox News",
+        "relSourceRef": "https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL29waW5pb24vdHVja2VyLWNhcmxzb24td2h5LXRoZS1yb2dlci1zdG9uZS1jYXNlLXNob3VsZC1ob3JyaWZ5LXlvdS13aGV0aGVyLXlvdXJlLXJlcHVibGljYW4tb3ItZGVtb2NyYXTSAYMBaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vb3Bpbmlvbi90dWNrZXItY2FybHNvbi13aHktdGhlLXJvZ2VyLXN0b25lLWNhc2Utc2hvdWxkLWhvcnJpZnkteW91LXdoZXRoZXIteW91cmUtcmVwdWJsaWNhbi1vci1kZW1vY3JhdC5hbXA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581688427000
+      },
+      {
+        "id": 3,
+        "relTitle": "Roger Stone's sentence: How the judge will really decide to 'lock him up' | TheHill",
+        "relDesc": "Any sentencing recommendation is certain to have no impact on a judge who knows the case and the law.",
+        "relSource": "The Hill",
+        "relSourceRef": "https://news.google.com/articles/CBMicmh0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi9qdWRpY2lhcnkvNDgzMDkwLXJvZ2VyLXN0b25lcy1zZW50ZW5jZS1ob3ctdGhlLWp1ZGdlLXdpbGwtcmVhbGx5LWRlY2lkZS10by1sb2NrLWhpbS11cNIBdmh0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi9qdWRpY2lhcnkvNDgzMDkwLXJvZ2VyLXN0b25lcy1zZW50ZW5jZS1ob3ctdGhlLWp1ZGdlLXdpbGwtcmVhbGx5LWRlY2lkZS10by1sb2NrLWhpbS11cD9hbXA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581694210000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "newsTitle": "Andrew McCabe, Michael Flynn, and the latest DOJ drama, explained",
+    "newsDesc": "McCabe will not be indicted. But Bill Barr is having Michael Flynn's case reviewed. Here's what it means.",
+    "thumbNail": "https://lh3.googleusercontent.com/Dp7C86qeT58KHAFM8IkTqjQQgZ53vJ0RLzCzod5e7VXLfmP_xNHwT431977rSYTYYZzw_cApKSBmnpQlnaw=-p-h200-w200",
+    "source": "Vox.com",
+    "sourceRef": "https://www.vox.com/2020/2/14/21137978/andrew-mccabe-michael-flynn-bill-barr;",
+    "timeStamp": 1581711600000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "DOJ drops Andrew McCabe probe. Watch his reaction.",
+        "relDesc": "",
+        "relSource": "CNN",
+        "relSourceRef": "https://news.google.com/articles/CCAiC2c4UjNoNkxUMjhZmAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581705291000
+      },
+      {
+        "id": 1,
+        "relTitle": "Trump notably quiet on DOJ decision not to prosecute Andrew McCabe",
+        "relDesc": "",
+        "relSource": "Fox News",
+        "relSourceRef": "https://news.google.com/articles/CCAiC0EwcTB4TWNEWG9zmAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581724335000
+      },
+      {
+        "id": 2,
+        "relTitle": "Andrew McCabe shows that only an FBI man can get away with lying to the FBI",
+        "relDesc": "If anyone else did what disgraced former FBI Director Andrew McCabe did, he or she would be charged with lying to federal investigators.",
+        "relSource": "Washington Examiner",
+        "relSourceRef": "https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vb3Bpbmlvbi9hbmRyZXctbWNjYWJlLXNob3dzLXRoYXQtb25seS1hbi1mYmktbWFuLWNhbi1nZXQtYXdheS13aXRoLWx5aW5nLXRvLXRoZS1mYmnSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581710460000
+      },
+      {
+        "id": 3,
+        "relTitle": "Happy Hour Roundup",
+        "relDesc": "... * Matt Zapotosky, Devlin Barrett, Karoun Demirjian and Josh Dawsey report that one of Trump's enemies will not be prosecuted: The Justice Department will ...",
+        "relSource": "The Washington Post",
+        "relSourceRef": "https://news.google.com/articles/CAIiEAy2oNTn67jxPeClbsHP-oYqGAgEKg8IACoHCAowjtSUCjC30XQw_qe5AQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581721980000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "newsTitle": "Police identify second body linked to Faye Swetlik case",
+    "newsDesc": "New details are emerging in the death of 6-year-old Faye Swetlik. Her body was discovered three days after she went missing and now police have identified a ...",
+    "thumbNail": "https://lh3.googleusercontent.com/AGj9LK7ROEYP0lj4PSq4JOrHUCFB49pNuKI7Iduq-zaw4P5lWK7bWy7OLr0t2yDpjrkK3TYOdmbRIoKvoUM=-p-h200-w200",
+    "source": "CBS News",
+    "sourceRef": "https://www.cbsnews.com/video/police-identify-second-body-linked-to-faye-swetlik-case/;",
+    "timeStamp": 1581739986000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "‘Critical’ evidence found in trash in case of missing girl Faye Swetlik",
+        "relDesc": "The three-day search for a missing 6-year-old South Carolina girl ended with her body being found in a wooded area and police piecing together clues that link ...",
+        "relSource": "Yahoo News",
+        "relSourceRef": "https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LnlhaG9vLmNvbS9nbWEvY3JpdGljYWwtZXZpZGVuY2UtZm91bmQtdHJhc2gtY2FzZS1taXNzaW5nLWdpcmwtZmF5ZS0xOTE1MDA2MTMtLWFiYy1uZXdzLXRvcHN0b3JpZXMuaHRtbNIBemh0dHBzOi8vd3d3LnlhaG9vLmNvbS9hbXBodG1sL2dtYS9jcml0aWNhbC1ldmlkZW5jZS1mb3VuZC10cmFzaC1jYXNlLW1pc3NpbmctZ2lybC1mYXllLTE5MTUwMDYxMy0tYWJjLW5ld3MtdG9wc3Rvcmllcy5odG1s?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581707700000
+      },
+      {
+        "id": 1,
+        "relTitle": "Police 'link' the death of 6-year-old Faye Swetlik to a neighbor found dead in his home",
+        "relDesc": "The death of 6-year-old Faye Swetlik, who vanished outside her home in South Carolina this week, is \"linked\" to a neighbor whose body was discovered shortly ...",
+        "relSource": "CNN",
+        "relSourceRef": "https://news.google.com/articles/CAIiEIa76qZzGxfpKjd87YdPSRIqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581708180000
+      },
+      {
+        "id": 2,
+        "relTitle": "Classmates show love for Faye Swetlik with Valentine’s Day cards",
+        "relDesc": "Students from Springdale Elementary School showed their love for Faye Swetlik by making heartfelt Valentine's Day cards for her, this before the tragic ...",
+        "relSource": "WIS10",
+        "relSourceRef": "https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3Lndpc3R2LmNvbS8yMDIwLzAyLzE0L2NsYXNzbWF0ZXMtc2hvdy1sb3ZlLWZheWUtc3dldGxpay13aXRoLXZhbGVudGluZXMtZGF5LWNhcmRzL9IBbGh0dHBzOi8vd3d3Lndpc3R2LmNvbS8yMDIwLzAyLzE0L2NsYXNzbWF0ZXMtc2hvdy1sb3ZlLWZheWUtc3dldGxpay13aXRoLXZhbGVudGluZXMtZGF5LWNhcmRzLz9vdXRwdXRUeXBlPWFtcA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581691620000
+      },
+      {
+        "id": 3,
+        "relTitle": "Mom's Harrowing 911 Call for 6-Year-Old Faye Swetlik",
+        "relDesc": "",
+        "relSource": "Inside Edition",
+        "relSourceRef": "https://news.google.com/articles/CCAiC3NVWXJGVERwV09VmAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581719072000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "newsTitle": "Trump and Bloomberg used to be friends. Now they are waging political war",
+    "newsDesc": "Dozens of elite business leaders have joined Mike Bloomberg's \"army\" of surrogates to help him win the Democratic presidential nomination.",
+    "thumbNail": "https://img.youtube.com/vi/em6W_2Dn1UM/0.jpg",
+    "source": "CNN",
+    "sourceRef": "https://www.youtube.com/watch?v=em6W_2Dn1UM;",
+    "timeStamp": 1581715013000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Mike Bloomberg builds an 'army' of elite business leaders to act as surrogates for his campaign",
+        "relDesc": "Dozens of elite business leaders have joined Mike Bloomberg's \"army\" of surrogates to help him win the Democratic presidential nomination.",
+        "relSource": "CNBC",
+        "relSourceRef": "https://news.google.com/articles/CAIiEHmNH0ovxcV5oP3pTGvTLJwqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581704460000
+      },
+      {
+        "id": 1,
+        "relTitle": "Mike Bloomberg isn’t the anti-Trump juggernaut he seems to be",
+        "relDesc": "An increasing number of Democrats are thrilling to the candidacy of former New York mayor Mike Bloomberg. He's rising in the polls, driven by his seemingly ...",
+        "relSource": "The Washington Post",
+        "relSourceRef": "https://news.google.com/articles/CAIiENovE1w4COXJxIluAOht-g0qGAgEKg8IACoHCAowjtSUCjC30XQw_qe5AQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581720120000
+      },
+      {
+        "id": 2,
+        "relTitle": "Mike Bloomberg Is Hacking Your Attention",
+        "relDesc": "Mike Bloomberg and his presidential campaign respect the fundamental equation governing the modern internet: Shamelessness and conflict equal attention.",
+        "relSource": "The New York Times",
+        "relSourceRef": "https://news.google.com/articles/CAIiEF9vN8MIMsEvkiUhukIIUGYqFwgEKg8IACoHCAowjuuKAzCWrzwwqIQY?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581639960000
+      },
+      {
+        "id": 3,
+        "relTitle": "Trump vs. Bloomberg, more than a Twitter battle",
+        "relDesc": "President Donald Trump and Democratic presidential candidate Michael Bloomberg turn Campaign 2020 into a battle of tweets.",
+        "relSource": "Chicago Tribune",
+        "relSourceRef": "https://news.google.com/articles/CAIiEBxvaDTQAVU84E3W-gkIUVAqFwgEKg4IACoGCAowlPVUMLXBDDDRoYYD?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581704040000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "newsTitle": "Disgraced lawyer Michael Avenatti found guilty in Nike extortion trial",
+    "newsDesc": "Michael Avenatti, the lawyer convicted of trying to extort Nike, gained notoriety in legal disputes with President Donald Trump for his client, porn star Stormy ...",
+    "thumbNail": "https://lh3.googleusercontent.com/uz-_4qlIfXswctQb6ALBZVVHqPm-yxXNZ2MiwxSfRw--xFyUdgIvPh_uBGLe8AiY_ZfNTfN7y6DNQBKPNho=-p-h200-w200",
+    "source": "CNBC",
+    "sourceRef": "https://www.cnbc.com/2020/02/14/disgraced-lawyer-michael-avenatti-found-guilty-in-nike-extortion-trial.html;",
+    "timeStamp": 1581707640000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Michael Avenatti has been found guilty on all counts in Nike extortion trial",
+        "relDesc": "Michael Avenatti is guilty on all three counts he was facing, according to a decision by a jury in federal court in New York on Friday.",
+        "relSource": "CNN",
+        "relSourceRef": "https://news.google.com/articles/CAIiEHnaiBwUYCEGnlhCyywnLSIqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581716100000
+      },
+      {
+        "id": 1,
+        "relTitle": "Michael Avenatti found guilty",
+        "relDesc": "",
+        "relSource": "ABC News",
+        "relSourceRef": "https://news.google.com/articles/CCAiC0R0LUxXZDhJVG0wmAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581731737000
+      },
+      {
+        "id": 2,
+        "relTitle": "The media elevated Michael Avenatti to stardom; his felony conviction reflects on them",
+        "relDesc": "Anyone could have told you in 2017 that convicted felon Michael Avenatti was bad news. But the media just cannot help themselves.",
+        "relSource": "Washington Examiner",
+        "relSourceRef": "https://news.google.com/articles/CBMigAFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL29waW5pb24vdGhlLW1lZGlhLWVsZXZhdGVkLW1pY2hhZWwtYXZlbmF0dGktdG8tc3RhcmRvbS1oaXMtZmVsb255LWNvbnZpY3Rpb24tcmVmbGVjdHMtb24tdGhlbdIBAA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581732840000
+      },
+      {
+        "id": 3,
+        "relTitle": "Michael Avenatti convicted in Nike extortion case",
+        "relDesc": "",
+        "relSource": "CBS Evening News",
+        "relSourceRef": "https://news.google.com/articles/CCAiC3F2Y0Z5d3kxcG1NmAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581724136000
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "newsTitle": "21 States Reject $18 Billion Offer From Drug Wholesalers to Settle Opioid Litigation",
+    "newsDesc": "An $18 billion settlement offer from three major drug wholesalers to resolve litigation over the opioid crisis has fallen apart, after more than 20 state attorneys ...",
+    "thumbNail": "https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32",
+    "source": "The Wall Street Journal",
+    "sourceRef": "https://www.wsj.com/articles/21-states-reject-18-billion-offer-from-drug-wholesalers-to-settle-opioid-litigation-11581692527;",
+    "timeStamp": 1581724680000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "States reject opioid makers’ $18-billion settlement offer",
+        "relDesc": "Twenty-one states are rejecting an $18-billion offer by McKesson and other opioid distributors to resolve nationwide litigation over their handling of the highly ...",
+        "relSource": "Los Angeles Times",
+        "relSourceRef": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2J1c2luZXNzL3N0b3J5LzIwMjAtMDItMTQvc3RhdGVzLXJlamVjdC1vcGlvaWQtc2V0dGxlbWVudNIBW2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL2J1c2luZXNzL3N0b3J5LzIwMjAtMDItMTQvc3RhdGVzLXJlamVjdC1vcGlvaWQtc2V0dGxlbWVudD9fYW1wPXRydWU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581708660000
+      },
+      {
+        "id": 1,
+        "relTitle": "21 States Reject $18 Billion Settlement with Opioid Wholesalers: Report",
+        "relDesc": "Twenty-one states have rejected an $18 billion settlement with opioid manufacturers after attempts to negotiate a deal apparently failed.",
+        "relSource": "National Review",
+        "relSourceRef": "https://news.google.com/articles/CAIiEJSzsLlI1eHNPY5dnmiLiaEqGQgEKhAIACoHCAowh4uHCzDap4UDMPnxlgY?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581702720000
+      },
+      {
+        "id": 2,
+        "relTitle": "States Reject Opioid Makers’ $18 Billion Settlement Offer",
+        "relDesc": "21 U.S. states are rejecting an $18 billion offer by McKesson Corp. and other opioid distributors to resolve nationwide litigation over their handling of the highly ...",
+        "relSource": "Bloomberg",
+        "relSourceRef": "https://news.google.com/articles/CAIiEFzQWq3PePSa3UowThS9hPkqGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581700560000
+      },
+      {
+        "id": 3,
+        "relTitle": "21 states reject $18 billion opioid settlement offer from drug wholesalers | TheHill",
+        "relDesc": "More than 20 state attorneys general on Friday penned a letter rejecting an $18 billion settlement offer from three major drug wholesalers meant to end litigation ...",
+        "relSource": "The Hill",
+        "relSourceRef": "https://news.google.com/articles/CBMidWh0dHBzOi8vdGhlaGlsbC5jb20vcmVndWxhdGlvbi9jb3VydC1iYXR0bGVzLzQ4MzEwNC0yMS1zdGF0ZXMtcmVqZWN0LTE4LWJpbGxpb24tb2ZmZXItZnJvbS1kcnVnLXdob2xlc2FsZXJzLXRvLXNldHRsZdIBeWh0dHBzOi8vdGhlaGlsbC5jb20vcmVndWxhdGlvbi9jb3VydC1iYXR0bGVzLzQ4MzEwNC0yMS1zdGF0ZXMtcmVqZWN0LTE4LWJpbGxpb24tb2ZmZXItZnJvbS1kcnVnLXdob2xlc2FsZXJzLXRvLXNldHRsZT9hbXA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581697044000
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "newsTitle": "White House memo on Soleimani strike makes no mention of imminent threat",
+    "newsDesc": "A White House memo justifying the U.S. strike that killed Iranian military leader Maj. Gen. Qasem Soleimani in January makes no mention of an imminent threat, ...",
+    "thumbNail": "https://lh3.googleusercontent.com/Xu7GTAzSlNvKLihUa25y6v5-DW41aNkSdUiE00yCt1lD_5ZxaKaAwD0OzAFfw5zZaZ2_54WZrhqOpUx_sNa8=-p-h200-w200",
+    "source": "The Washington Post",
+    "sourceRef": "https://www.washingtonpost.com/politics/white-house-memo-on-soleimani-strike-makes-no-mention-of-imminent-threat/2020/02/14/651ce330-4f70-11ea-b721-9f4cdc90bc1c_story.html;",
+    "timeStamp": 1581719580000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "'Imminent threat' explanation noticeably absent in White House report justifying Soleimani strike",
+        "relDesc": "The Trump administration has repeatedly insisted that its decision to kill Iranian General Qasem Soleimani was justified because he posed an \"imminent threat\" ...",
+        "relSource": "CNN",
+        "relSourceRef": "https://news.google.com/articles/CAIiEA5On6yPtx4jnNhpa9jF7XkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581719040000
+      },
+      {
+        "id": 1,
+        "relTitle": "House Foreign Affairs chairman blasts Trump administration for report on Soleimani killing",
+        "relDesc": "The chairman of the House Foreign Affairs Committee on Friday blasted the Trump administration for claiming in a new report that it had authority to order the ...",
+        "relSource": "CNBC",
+        "relSourceRef": "https://news.google.com/articles/CAIiEFR7OfzHn1-iaZGRGOL1Pp8qGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581699240000
+      },
+      {
+        "id": 2,
+        "relTitle": "House Foreign Affairs Chairman calls Trump's legal theory for Soleimani strike \"absurd\"",
+        "relDesc": "President Trump claimed that Soleimani was planning imminent attacks on American embassies, but the report submitted to Congress on the legal and policy ...",
+        "relSource": "CBS News",
+        "relSourceRef": "https://news.google.com/articles/CAIiEH4ohAcNQmApcXwc33vV_V4qGQgEKhAIACoHCAowyNj6CjDyiPICMJyFxQU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581699660000
+      },
+      {
+        "id": 3,
+        "relTitle": "Trump administration outlines legal justification for Soleimani strike | TheHill",
+        "relDesc": "The Democratic-led House Foreign Affairs Committee on Friday released the Trump administration's legal justification for its Jan. 2 drone strike that killed Iranian ...",
+        "relSource": "The Hill",
+        "relSourceRef": "https://news.google.com/articles/CBMib2h0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2RlZmVuc2UvNDgzMTM1LXRydW1wLWFkbWluaXN0cnRpb24tb3V0bGluZXMtbGVnYWwtanVzdGlmaWNhdGlvbi1mb3Itc29sZWltYW5pLXN0cmlrZdIBc2h0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2RlZmVuc2UvNDgzMTM1LXRydW1wLWFkbWluaXN0cnRpb24tb3V0bGluZXMtbGVnYWwtanVzdGlmaWNhdGlvbi1mb3Itc29sZWltYW5pLXN0cmlrZT9hbXA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581704592000
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "newsTitle": "Everywhere You Can Get Heart-Shaped Pizzas Today for Valentine's Day",
+    "newsDesc": "Heart-shaped pizzas and heart-shaped food are a must for this Valentine's Day staple. We got all the places to order from-- Papa Johns, P...",
+    "thumbNail": "https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32",
+    "source": "Thrillist",
+    "sourceRef": "https://www.thrillist.com/news/nation/heart-shaped-pizzas-valentines-day-2020-papa-johns;",
+    "timeStamp": 1581699180000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Happy Valentine’s Day 2020: Best freebies, deals, discounts for day of love",
+        "relDesc": "Who says that celebrating the day of love has to cost you an arm and a leg?",
+        "relSource": "AL.com",
+        "relSourceRef": "https://news.google.com/articles/CAIiEOqCpnuMhnhSA-zpZWGC7PwqGQgEKhAIACoHCAowzqT_CjCltPgCMIG_ngY?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581691200000
+      },
+      {
+        "id": 1,
+        "relTitle": "Celebrate Valentine's Day With CPK",
+        "relDesc": "",
+        "relSource": "KTNV Channel 13 Las Vegas",
+        "relSourceRef": "https://news.google.com/articles/CCAiC0dMZmZ0MjJNa3RVmAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581710693000
+      },
+      {
+        "id": 2,
+        "relTitle": "Local News Nardonnes Pizza: Heart-shaped pizzas for Valentine's Day Jaelin Wilson 12:14 AM, Feb",
+        "relDesc": "If you need something to warm your heart on Valentine's Day, a local pizzeria has you covered. Nardonnes La Famiglia Pizzeria is offering heart-shaped pizzas ...",
+        "relSource": "KSBY San Luis Obispo News",
+        "relSourceRef": "https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LmtzYnkuY29tL25ld3MvbG9jYWwtbmV3cy9uYXJkb25uZXMtcGl6emEtaGVhcnQtc2hhcGVkLXBpenphcy1mb3ItdmFsZW50aW5lcy1kYXnSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581668205000
+      },
+      {
+        "id": 3,
+        "relTitle": "SliCE Pizza Delivering Heart-Shaped Pies For Valentine's Day",
+        "relDesc": "",
+        "relSource": "CBS Philly",
+        "relSourceRef": "https://news.google.com/articles/CCAiC05IeldMWGZtd3BNmAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581721288000
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "newsTitle": "FAA faces dilemma over 737 MAX wiring flaw that Boeing missed",
+    "newsDesc": "Modifying the wiring would be a delicate and expensive task, and Boeing this week submitted a proposal to the FAA, arguing that it shouldn't be required.",
+    "thumbNail": "https://lh3.googleusercontent.com/proxy/vTU_WaleNRdhgVY83AcuuOnIbwcy3Cw4cGAEf1NWT3KGjVlkuqjeBBFEDU_utPnD1B53aId6YCUtQkFPPYLb6-sccupE4iIeqeWr0Nd_g91Ufu53_R-GD5PYMUf7iCfo9YoVnDY5f7MYtWD9hUqLOW6JQCpcFg=-p-h200-w200",
+    "source": "Seattle Times",
+    "sourceRef": "https://www.seattletimes.com/business/boeing-aerospace/faa-faces-dilemma-over-737-max-wiring-flaw-that-boeing-missed/;",
+    "timeStamp": 1581736440000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "American joins United, Southwest in pushing Boeing 737 Max return until late summer",
+        "relDesc": "Planning to fly Southwest, United or American airlines this summer vacation season? You won't be traveling on a Boeing 737 Max if you're traveling before ...",
+        "relSource": "USA TODAY",
+        "relSourceRef": "https://news.google.com/articles/CAIiEOprgyTDWSiWXtMq9nJSYSwqGQgEKhAIACoHCAowjsP7CjCSpPQCMM_b5QU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581718050000
+      },
+      {
+        "id": 1,
+        "relTitle": "Boeing submits initial plan for resolving 737 Max wiring concerns",
+        "relDesc": "After weeks of assessing concerns about the placement of wiring bundles in 737 Max airplanes, Boeing has submitted its initial recommendation to the FAA for ...",
+        "relSource": "CNBC",
+        "relSourceRef": "https://news.google.com/articles/CAIiEFwBq7b7LAB2zyBwh7xSq1cqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581716220000
+      },
+      {
+        "id": 2,
+        "relTitle": "United removes 737 Max from schedule until September 4, 2020",
+        "relDesc": "",
+        "relSource": "CNBC Television",
+        "relSourceRef": "https://news.google.com/articles/CCAiCzluNHQzM05ra2V3mAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581703956000
+      },
+      {
+        "id": 3,
+        "relTitle": "Boeing Argues It Doesn’t Need to Move 737 Max Wiring Bundles",
+        "relDesc": "Boeing Co. told U.S regulators on Friday that it didn't see the need to undertake a potentially costly fix for a wiring issue on the company's grounded 737 Max, ...",
+        "relSource": "Bloomberg",
+        "relSourceRef": "https://news.google.com/articles/CAIiEOIcXVXTrVo4BOTCxfCx_94qGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581718620000
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "newsTitle": "Shuttered Stores, Fewer Tourists: Luxury Feels Coronavirus Effects",
+    "newsDesc": "LONDON — Chinese tourists normally flock to Bond Street, home to some of the most expensive retail space in the world. They gather behind the velvet ropes ...",
+    "thumbNail": "https://lh3.googleusercontent.com/KjnaxLHs6uYEIZ8L2ezkLk4VZH8BgfdwEnzr_Sg6_IKGVEcd4Mre6MIsXDKNdBunXZXqtsAQZls2N75o_w=-p-h200-w200",
+    "source": "The New York Times",
+    "sourceRef": "https://www.nytimes.com/2020/02/14/business/coronavirus-luxury-retail.html;",
+    "timeStamp": 1581715080000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Kering Shuts Down Rumors of Moncler Acquisition",
+        "relDesc": "Kering Shuts Down Rumors of Moncler Acquisition: CEO François-Henri Pinault also confirmed that he dropped out of last year's Versace bidding.",
+        "relSource": "HYPEBEAST",
+        "relSourceRef": "https://news.google.com/articles/CBMiSWh0dHBzOi8vaHlwZWJlYXN0LmNvbS8yMDIwLzIva2VyaW5nLW1vbmNsZXItYWNxdWlzaXRpb24tcnVtb3ItZGVueS1yZWZ1dGXSAU9odHRwczovL2h5cGViZWFzdC5jb20vMjAyMC8yL2tlcmluZy1tb25jbGVyLWFjcXVpc2l0aW9uLXJ1bW9yLWRlbnktcmVmdXRlP2FtcD0x?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581713640000
+      },
+      {
+        "id": 1,
+        "relTitle": "The Real Cost of the Coronavirus | BoF Professional, This Week in Fashion | BoF",
+        "relDesc": "Hello BoF Professionals, your exclusive 'This Week in Fashion' briefing is ready, with members-only analysis on the key topic of the week and a digest of the ...",
+        "relSource": "The Business of Fashion",
+        "relSourceRef": "https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LmJ1c2luZXNzb2ZmYXNoaW9uLmNvbS9hcnRpY2xlcy9wcm9mZXNzaW9uYWwvdGhlLXJlYWwtY29zdC1vZi10aGUtY29yb25hdmlydXPSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581700500000
+      },
+      {
+        "id": 2,
+        "relTitle": "Kering Turned Over Approximately $17.15 Billion USD in 2019",
+        "relDesc": "Kering has announced that it turned over approximately $17.15 billion USD in turnover for 2019, with $10.42 billion USD of that being generated by Gucci alone.",
+        "relSource": "HYPEBEAST",
+        "relSourceRef": "https://news.google.com/articles/CBMiZWh0dHBzOi8vaHlwZWJlYXN0LmNvbS8yMDIwLzIva2VyaW5nLTIwMTktdHVybm92ZXItMTctYmlsbGlvbi11c2QtZ3VjY2ktc2FpbnQtbGF1cmVudC1iYWxlbmljYWdhLWNoaW5h0gFraHR0cHM6Ly9oeXBlYmVhc3QuY29tLzIwMjAvMi9rZXJpbmctMjAxOS10dXJub3Zlci0xNy1iaWxsaW9uLXVzZC1ndWNjaS1zYWludC1sYXVyZW50LWJhbGVuaWNhZ2EtY2hpbmE_YW1wPTE?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581689580000
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "newsTitle": "Motorola Razr vs. Samsung Galaxy Z Flip: The Flip Phone Is Back and It’s Not a Total Flop",
+    "newsDesc": "Once upon a time, before dinosaurs and selfies, humankind carried a tool called the flip phone. Cave drawings depict these contraptions as being primarily for ...",
+    "thumbNail": "https://lh3.googleusercontent.com/d5sRWKdj2e0_6zqIO7AVJdDHmHm1UDeBQOAyD1Z8fKwEcRB1fLBisvQ7OR9O-4RA-fsfvhUcBxzhd5nB3Rg=-p-h200-w200",
+    "source": "The Wall Street Journal",
+    "sourceRef": "https://www.wsj.com/articles/motorola-razr-vs-samsung-galaxy-z-flip-the-flip-phone-is-back-and-its-not-a-total-flop-11581742810;",
+    "timeStamp": 1581742800000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "10 features Samsung's Galaxy S20 phones have that Apple's latest iPhones are missing - Business Insider",
+        "relDesc": "Samsung's Galaxy S20 phones have larger cameras, 5G support, and other features not found on Apple's iPhone 11 or 11 Pro.",
+        "relSource": "Business Insider",
+        "relSourceRef": "https://news.google.com/articles/CAIiEIFBc2T4_hrKaScShNt6zDMqLQgEKiUIACIbd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FpKgQICjAMMJD-CQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581690986000
+      },
+      {
+        "id": 1,
+        "relTitle": "Samsung Galaxy Z Flip review in progress: What we like (and don't) so far",
+        "relDesc": "The Galaxy Z Flip's flip phone design is a lot more appealing than the book-like approach of the Galaxy Fold. If the cameras work as promised, this could be one ...",
+        "relSource": "Tom's Guide",
+        "relSourceRef": "https://news.google.com/articles/CBMiN2h0dHBzOi8vd3d3LnRvbXNndWlkZS5jb20vcmV2aWV3cy9zYW1zdW5nLWdhbGF4eS16LWZsaXDSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581716760000
+      },
+      {
+        "id": 2,
+        "relTitle": "Pay attention, Google: Every Galaxy S20 model has at least 12GB of RAM",
+        "relDesc": "It's almost comical how much RAM some Android devices have at this point. The Asus Zenfone 6 Edition 30, Xiaomi Black Share 2 Pro, and Redmi K20 Pro.",
+        "relSource": "Android Police",
+        "relSourceRef": "https://news.google.com/articles/CAIiENc-OSCIgZgU840H3gmEsJYqFwgEKg4IACoGCAowu5gUMNLMAjCg7LUG?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581706020000
+      },
+      {
+        "id": 3,
+        "relTitle": "Galaxy Z Flip unboxing!",
+        "relDesc": "",
+        "relSource": "CNET",
+        "relSourceRef": "https://news.google.com/articles/CCAiC0JUaUJtbFFTc3g4mAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581730646000
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "newsTitle": "Google removes alleged spying app ToTok from the Play Store for a second time",
+    "newsDesc": "Google has removed the chat app ToTok, which is allegedly an espionage tool for the United Arab Emirates, from the Play Store for a second time. The app was ...",
+    "thumbNail": "https://lh3.googleusercontent.com/4w0wck6zOUw6Z8AXU-1ArG24NywYk79UvlIPV7399UtlJDFRbO0_zsMQtwu1l7wdNBR9nuehcyx2NVPS-634=-p-h200-w200",
+    "source": "The Verge",
+    "sourceRef": "https://www.theverge.com/2020/2/14/21138522/google-removes-totok-play-store-spying-app-uae;",
+    "timeStamp": 1581731851000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Messaging app ToTok, allegedly used for mass spying, removed from Google Play again",
+        "relDesc": "Last year, the New York Times reported how a chat app gaining traction worldwide was actually being used as a spying tool. Google Play removes ToTok...",
+        "relSource": "9to5Google",
+        "relSourceRef": "https://news.google.com/articles/CAIiEFECfSUc1vWFS5HiE8q_rL8qGQgEKhAIACoHCAowyoD5CjD5z-ACMM_rvwU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581712740000
+      },
+      {
+        "id": 1,
+        "relTitle": "ToTok messaging app quietly returns to Play Store after spying accusations (Update: Gone again)",
+        "relDesc": "Well, that didn't last long. ToTok has once again been pulled from the Play Store (as spotted by 9to5Google), though it's not clear what prompted its latest ...",
+        "relSource": "Android Police",
+        "relSourceRef": "https://news.google.com/articles/CAIiELz0Q3OFcSoi3OEEUPZGCbUqFwgEKg4IACoGCAowu5gUMNLMAjCg7LUG?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581729840000
+      },
+      {
+        "id": 2,
+        "relTitle": "The town forced to fix itself",
+        "relDesc": "In Harrismith, a group of residents - sick of intermittent water and power in their town - have taken matters into their own hands.",
+        "relSource": "BBC News",
+        "relSourceRef": "https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hdi93b3JsZC1hZnJpY2EtNTE0ODEwNDQvdGhlLXRvd24tZm9yY2VkLXRvLWZpeC1pdHNlbGbSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581751023000
+      },
+      {
+        "id": 3,
+        "relTitle": "Google removes this app from Play Store again",
+        "relDesc": "Google has removed the popular messaging app ToTok amid claims that it is being used for spying by the United Arab Emirates (UAE) government for mass ...",
+        "relSource": "Gadgets Now",
+        "relSourceRef": "https://news.google.com/articles/CAIiEGb8o9rUoEpFIATgDAx9KYIqGQgEKhAIACoHCAowv9f9CjCs1fUCMNfb8wU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581752100000
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "newsTitle": "You can blame Nvidia, not just Activision Blizzard, for their GeForce Now falling-out",
+    "newsDesc": "Nvidia didn't actually get permission to keep its games on GeForce Now after launch. While Nvidia confirmed it reached out to Activision ahead of launch to ask, ...",
+    "thumbNail": "https://lh3.googleusercontent.com/wf5CJ9Aw--SayW6TASnQT3FXrv0nFUB8bQg6mKGnbQqeoi7cSkki2yd3OEWTiIuGR5pNWD2BxfLC5Tz3JQ=-p-h200-w200",
+    "source": "The Verge",
+    "sourceRef": "https://www.theverge.com/2020/2/14/21138479/nvidia-geforce-now-activision-blizzard-misunderstanding;",
+    "timeStamp": 1581732188000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Nvidia says a 'misunderstanding' led to Activision's departure from GeForce Now",
+        "relDesc": "Nvidia's game streaming service GeForce Now got off to a strong start, but ran into an unexpected headache earlier this week when Activision Blizzard removed ...",
+        "relSource": "PC Gamer",
+        "relSourceRef": "https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnBjZ2FtZXIuY29tL252aWRpYS1zYXlzLWEtbWlzdW5kZXJzdGFuZGluZy1sZWQtdG8tYWN0aXZpc2lvbnMtZGVwYXJ0dXJlLWZyb20tZ2Vmb3JjZS1ub3cv0gFpaHR0cHM6Ly93d3cucGNnYW1lci5jb20vYW1wL252aWRpYS1zYXlzLWEtbWlzdW5kZXJzdGFuZGluZy1sZWQtdG8tYWN0aXZpc2lvbnMtZGVwYXJ0dXJlLWZyb20tZ2Vmb3JjZS1ub3cv?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581714300000
+      },
+      {
+        "id": 1,
+        "relTitle": "Nvidia GeForce Now loses Activision Blizzard’s entire catalog (Update: More info)",
+        "relDesc": "Nvidia told Bloomberg News that Activision Blizzard wanted its games pulled from GeForce Now because the existing agreement between the two companies ...",
+        "relSource": "Android Police",
+        "relSourceRef": "https://news.google.com/articles/CAIiEEjBl7c_BcqUjQuQRKwpND0qFwgEKg4IACoGCAowu5gUMNLMAjCg7LUG?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581712800000
+      },
+      {
+        "id": 2,
+        "relTitle": "Activision Blizzard Pulled Its Games From Nvidia's Streaming Service",
+        "relDesc": "If you were thinking of using the service to check out 'Warcraft III: Reforged,' think again.",
+        "relSource": "WIRED",
+        "relSourceRef": "https://news.google.com/articles/CAIiEC4y-o5REPOFNOk7MG5p7ugqGAgEKg8IACoHCAow-KLyCTDo8XIw6bDpBQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581708780000
+      },
+      {
+        "id": 3,
+        "relTitle": "Activision Blizzard's Deal with YouTube Is Reportedly Worth $160 Million",
+        "relDesc": "Activision Blizzard's (NASDAQ:ATVI) Overwatch League has been a hot ticket over the last few years on the esports scene. In January, Activision struck a ...",
+        "relSource": "The Motley Fool",
+        "relSourceRef": "https://news.google.com/articles/CAIiEJTaM7kxy4lkARxOvNaXSssqEwgEKgwIACoFCAowgHkwoBEwwjU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581711882000
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "newsTitle": "There's finally a way to remove xHelper, the unremovable Android malware",
+    "newsDesc": "Malwarebytes researchers find a way to remove the malware, but they still don't know how it really operates.",
+    "thumbNail": "https://lh3.googleusercontent.com/proxy/rCaQXf9YwkorktFo8jUTxx3lCKwTPDQ5brkaVm9CcFK-UANSQRxJqCB6-UWcDqaS_VigQ4EGnWJ8kDkHGubB5aglAK-mk0seSCI6yM8Z8sWhoj3aiVfyd3ze7se0TZh1XpS9EDDkvl_Wtm238DMnrA5fvavGUzGM82-eBRXww_0NMUzbUoC-wFB4VYAgPya3cyJb8BFqI_0ToiVR2AgPcU9_iXgaUk4rSxAVALglo3ngjUGE=-p-h200-w200",
+    "source": "ZDNet",
+    "sourceRef": "https://www.zdnet.com/article/theres-finally-a-way-to-remove-xhelper-the-unremovable-android-malware/;",
+    "timeStamp": 1581713340000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Here’s your latest reminder that Android security is a joke",
+        "relDesc": "The pile of Android threats to watch out for has been mounting at a pretty rapid clip so far this year, with apps sneaking into the Google Play Store that can do ...",
+        "relSource": "BGR",
+        "relSourceRef": "https://news.google.com/articles/CAIiEOIoyHNB_u97EX276S1M15gqFggEKg4IACoGCAowl7gmMPL_BTDC_Qs?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581662760000
+      },
+      {
+        "id": 1,
+        "relTitle": "Persistent malware reinstalls itself on Android devices even after factory reset",
+        "relDesc": "The cybersecurity company Malwarebytes announced its professionals have stumbled upon the most persistent malware for Android they have ever seen.",
+        "relSource": "PhoneArena",
+        "relSourceRef": "https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LnBob25lYXJlbmEuY29tL25ld3MveEhlbHBlci1tYWx3YXJlLXJlaW5zdGFsbHMtaXRzZWxmLW9uLUFuZHJvaWQtYWZ0ZXItZmFjdG9yeS1yZXNldF9pZDEyMjI2NNIBbWh0dHBzOi8vd3d3LnBob25lYXJlbmEuY29tL2FtcC9uZXdzL3hIZWxwZXItbWFsd2FyZS1yZWluc3RhbGxzLWl0c2VsZi1vbi1BbmRyb2lkLWFmdGVyLWZhY3RvcnktcmVzZXRfaWQxMjIyNjQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581691260000
+      },
+      {
+        "id": 2,
+        "relTitle": "Outbreak Of Android Trojan xHelper Malware Appears To Be Triggered By Google Play Itself",
+        "relDesc": "Android Trojan xHelper haunted the Google Play Store in 2019. After several months, it appeared that the malware had disappeared. Unfortunately, xHelper was ...",
+        "relSource": "Hot Hardware",
+        "relSourceRef": "https://news.google.com/articles/CAIiEKKtgSzmYY8Et1wo91_CO-oqGQgEKhAIACoHCAowpKmRCzCn6KUDMMe3wgY?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581692520000
+      },
+      {
+        "id": 3,
+        "relTitle": "Stubborn strain of Android malware disses resets",
+        "relDesc": "It's being called nasty—oh, the reinfection of it all— and sneaky for good reason: It's all of that, known to headache-watchers as xHelper, which turns out to be of ...",
+        "relSource": "Tech Xplore",
+        "relSourceRef": "https://news.google.com/articles/CAIiEHHBmFKVPqKyVshrXYwpRMQqGQgEKhAIACoHCAowgvzyCjCh_NkCMNntxgY?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581681976000
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "newsTitle": "Seattle is so far gone on inequality we’re beyond the movie ‘Parasite’",
+    "newsDesc": "The Oscar-winning movie set in the basements and mansions of Korea has people buzzing about the growing class divide. But the reality here in Seattle is much ...",
+    "thumbNail": "https://lh5.googleusercontent.com/proxy/qgXI8AozYe7DG6XuD8jZtCf5NFzuv-4EtOtxNtWsrssHBq_4bbfjhGzDUSLBm1OwdMb8uggyp41NGiBzgstWjWfvl8lsRjZ0ikYiBF0iSSw08SJjND4O9TpE6vG0b2nGiH3E2t0gOLo9iVwOExE-wnKeZFaO3fdZDAc=-p-h200-w200",
+    "source": "Seattle Times",
+    "sourceRef": "https://www.seattletimes.com/seattle-news/seattle-is-so-far-gone-on-inequality-were-beyond-the-movie-parasite/;",
+    "timeStamp": 1581735720000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "‘Parasite’ paints a nightmarish picture of Korean inequality. The reality in America is even worse.",
+        "relDesc": "Korean director Bong Joon-ho's “Parasite” is a dark parable about the yawning gulf between the rich and the poor in South Korea. It's a story of a society where ...",
+        "relSource": "The Washington Post",
+        "relSourceRef": "https://news.google.com/articles/CAIiECOoWji7VX0IORDMHK2HmT0qGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581678000000
+      },
+      {
+        "id": 1,
+        "relTitle": "The real star of Bong Joon-ho’s Oscar-winner Parasite? The house",
+        "relDesc": "Four carefully crafted sets give the appearance of a luxurious labyrinth of burnished wood and crystal-clear glass – a perfect location for menace and suburban ...",
+        "relSource": "The Guardian",
+        "relSourceRef": "https://news.google.com/articles/CAIiEA1WfHEwAYVdlvC97qqIC_wqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581687540000
+      },
+      {
+        "id": 2,
+        "relTitle": "‘Parasite’ Oscar Win Leaves Hollywood Desperate to Work With Bong Joon Ho and Neon",
+        "relDesc": "Studios are desperate to work with \"Parasite\" director Bong Joon Ho following his Oscar triumph.",
+        "relSource": "Variety",
+        "relSourceRef": "https://news.google.com/articles/CAIiEFnYTlCl4dcGB8jjKw5WYokqFwgEKg8IACoHCAowraj2AjC5-iIwzItb?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581708780000
+      },
+      {
+        "id": 3,
+        "relTitle": "Commentary: 'Parasite' became an Oscars success story overnight because of years of Asian American support",
+        "relDesc": "Director Bong Joon-ho's masterpiece 'Memories of Murder' had its U.S. premiere at the San Diego Asian Film Festival.",
+        "relSource": "The San Diego Union-Tribune",
+        "relSourceRef": "https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LnNhbmRpZWdvdW5pb250cmlidW5lLmNvbS9vcGluaW9uL3N0b3J5LzIwMjAtMDItMTMvcGFyYXNpdGUtb3NjYXItYm9uZy1qb29uLWhvLWJlc3QtcGljdHVyZdIBcGh0dHBzOi8vd3d3LnNhbmRpZWdvdW5pb250cmlidW5lLmNvbS9vcGluaW9uL3N0b3J5LzIwMjAtMDItMTMvcGFyYXNpdGUtb3NjYXItYm9uZy1qb29uLWhvLWJlc3QtcGljdHVyZT9fYW1wPXRydWU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581646448000
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "newsTitle": "Justin & Hailey Bieber Are Still \"Building Trust\" in Their Marriage",
+    "newsDesc": "Justin Bieber couldn't help but gush over wife Hailey Baldwin during his interview with Beats 1, where he also revealed the couple is still building trust in their ...",
+    "thumbNail": "https://lh3.googleusercontent.com/af_PrqPy-xjMn8Qd2U6sIOKx6jBcqoubssd-VWAaw03oifnFkyESA_uX0hEwCZq_Hq6BB8RmIBxCsF01rLUy=-p-h200-w200",
+    "source": "E! NEWS",
+    "sourceRef": "https://www.eonline.com/news/1123415/justin-bieber-says-he-and-hailey-bieber-are-still-building-trust-in-their-marriage;",
+    "timeStamp": 1581719940000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Justin Bieber gets candid about his sex life with Hailey",
+        "relDesc": "He says Hailey 'takes her frustrations out in the sack'",
+        "relSource": "Yahoo Lifestyle",
+        "relSourceRef": "https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9saWZlc3R5bGUvanVzdGluLWJpZWJlci1nZXRzLWNhbmRpZC1zZXgtMTEzMzAwNTgyLmh0bWzSAVRodHRwczovL3d3dy55YWhvby5jb20vYW1waHRtbC9saWZlc3R5bGUvanVzdGluLWJpZWJlci1nZXRzLWNhbmRpZC1zZXgtMTEzMzAwNTgyLmh0bWw?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581680220000
+      },
+      {
+        "id": 1,
+        "relTitle": "Justin Bieber - Changes Review",
+        "relDesc": "David Hayter checks in with Justin Bieber's return LP, Changes, and gives his full review.",
+        "relSource": "411mania.com",
+        "relSourceRef": "https://news.google.com/articles/CBMiOGh0dHBzOi8vNDExbWFuaWEuY29tL211c2ljL2p1c3Rpbi1iaWViZXItY2hhbmdlcy1yZXZpZXcv0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581744078000
+      },
+      {
+        "id": 2,
+        "relTitle": "Justin Bieber's 'Changes': Wifed-Up and No Longer the Swingin' Dick",
+        "relDesc": "The Canadian pop superstar's fifth studio album sounds a lot like the man he's become, writes Tarpley Hitt.",
+        "relSource": "The Daily Beast",
+        "relSourceRef": "https://news.google.com/articles/CAIiEPM7g6wBF-JVBm1G-Kgeu6EqFQgEKg0IACoGCAow7s8BMNBIMPGMAg?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581736860000
+      },
+      {
+        "id": 3,
+        "relTitle": "Justin Bieber releases long-awaited fifth album Changes",
+        "relDesc": "The Biebs is back. The Canadian singer dropped his first album in five years on Thursday night. Titled Changes, the 17-track collection boasts features from ...",
+        "relSource": "Yahoo Celebrity",
+        "relSourceRef": "https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2p1c3Rpbi1iaWViZXItcmVsZWFzZXMtbG9uZy1hd2FpdGVkLTA1MDYyMjExNy5odG1s0gFeaHR0cHM6Ly93d3cueWFob28uY29tL2FtcGh0bWwvZW50ZXJ0YWlubWVudC9qdXN0aW4tYmllYmVyLXJlbGVhc2VzLWxvbmctYXdhaXRlZC0wNTA2MjIxMTcuaHRtbA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581683400000
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "newsTitle": "Kylie Jenner Dons a Long Brunette Wig for Valentine's Day After Hair Stylist 'Cut Off All' Her Hair",
+    "newsDesc": "Kylie Jenner Dons Brunette Wig After Stylist 'Cut off All' Her Hair.",
+    "thumbNail": "https://lh3.googleusercontent.com/proxy/Bki8uj6m63-HztCcnR0MngzZRxVKKgjKdzX5VLTBCzDf-ltAsuhChLal3T1HDs_6AmZbPSKtbbp-ta0qpoj3kGPX2oADrxwYbakqYegG1kmBmD3DjoSUB11OB3Kt81EjpLGeVYUC0n_ReDYo1ge11U8ZwHBRZP73A9BdaTuWkUlH2sJQXkwg5Il4e6YL9vfnZkIh_Ov1rJ094zESjEg6Pw9WvyEAABJVgnAdpZpe07PmzzHXHcWdOBWE41py-kiyANSaZqikr033H0gXVyZaZjo22qt76-g7o5dPvaZhVAAh-BAdAMdyOR5-PnVC4X5lJKyMcHhZEJ9nintqDjLyMIQgBovgYFNaIy_tMltPHqhVGDrGHVIz5lqGTuYrO92RVjYNOvqYQpY=-p-h200-w200",
+    "source": "Yahoo Entertainment",
+    "sourceRef": "https://www.yahoo.com/entertainment/kylie-jenner-dons-long-brunette-043635326.html;",
+    "timeStamp": 1581741795000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Kylie Jenner Says Hairstylist ‘Cut Off All My Hair’ After She Went for a Trim",
+        "relDesc": "The beauty mogul, 22, debuted a fresh bob after wearing a long braid the night before.",
+        "relSource": "PEOPLE.com",
+        "relSourceRef": "https://news.google.com/articles/CBMiUGh0dHBzOi8vcGVvcGxlLmNvbS9zdHlsZS9reWxpZS1qZW5uZXItY3V0cy1vZmYtYWxsLWhlci1oYWlyLXdoZW4tYXNrZWQtZm9yLXRyaW0v0gFUaHR0cHM6Ly9wZW9wbGUuY29tL3N0eWxlL2t5bGllLWplbm5lci1jdXRzLW9mZi1hbGwtaGVyLWhhaXItd2hlbi1hc2tlZC1mb3ItdHJpbS9hbXAv?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581704640000
+      },
+      {
+        "id": 1,
+        "relTitle": "Travis Scott Raps About Kylie Jenner On Justin Bieber Song 'Second Emotions'",
+        "relDesc": "",
+        "relSource": "HollywoodLife",
+        "relSourceRef": "https://news.google.com/articles/CCAiC1puUjJTTjhtZXQ0mAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581708455000
+      },
+      {
+        "id": 2,
+        "relTitle": "Kylie Jenner Got a Bob Haircut for Valentine's Day",
+        "relDesc": "Kylie Jenner kicked off Valentine's Day with a surprise for everyone: A hair transformation that even she claims she hadn't anticipated. The star now has a bob.",
+        "relSource": "ELLE.com",
+        "relSourceRef": "https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmVsbGUuY29tL2N1bHR1cmUvY2VsZWJyaXRpZXMvYTMwOTI4NDkwL2t5bGllLWplbm5lci1zaG9ydC1oYWlyLXZhbGVudGluZXMtZGF5L9IBXGh0dHBzOi8vd3d3LmVsbGUuY29tL2N1bHR1cmUvY2VsZWJyaXRpZXMvYW1wMzA5Mjg0OTAva3lsaWUtamVubmVyLXNob3J0LWhhaXItdmFsZW50aW5lcy1kYXkv?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581699780000
+      },
+      {
+        "id": 3,
+        "relTitle": "Kylie Jenner Celebrates Valentine's Day After Travis Scott Split with Girls' Painting Lunch",
+        "relDesc": "PEOPLE confirmed last fall that the couple of over two years had decided to take a break from their relationship.",
+        "relSource": "PEOPLE.com",
+        "relSourceRef": "https://news.google.com/articles/CBMiS2h0dHBzOi8vcGVvcGxlLmNvbS90di9reWxpZS1qZW5uZXItdmFsZW50aW5lcy1kYXktYWZ0ZXItdHJhdmlzLXNjb3R0LXNwbGl0L9IBT2h0dHBzOi8vcGVvcGxlLmNvbS90di9reWxpZS1qZW5uZXItdmFsZW50aW5lcy1kYXktYWZ0ZXItdHJhdmlzLXNjb3R0LXNwbGl0L2FtcC8?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581730140000
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "newsTitle": "Zynga Founder Donates $3 Million to James Turrell Art Project",
+    "newsDesc": "Last year, Kanye West donated $10 million to the Roden Crater and he used the same crater as the art for his 'Jesus Is King' short film. Zynga mobile games ...",
+    "thumbNail": "https://lh4.googleusercontent.com/proxy/s88Vw67RoJvMmlws7TYfgiuWFDfPjHmSs7KBs7trMMcm-f1xTcCE9X4Jv0xTISFLI42bs935eGIHOKN_55SrbTzeszW3DtvFxD8jNVMjodzgZIVkeLs3PakkIY7vUx-lljTofT7vFaD9B_1a50nSnw1jhCh7xNDlP0ZcozMnxG3O22_sV9H-hEGlZX8qjSrQcSnqUsn1=-p-h200-w200",
+    "source": "Hollywood Reporter",
+    "sourceRef": "https://www.hollywoodreporter.com/news/zynga-founder-donates-3-million-james-turrell-art-project-1279503;",
+    "timeStamp": 1581721369000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Zynga Founder Follows Kanye West in Donating $3 Million to James Turrell Art Project",
+        "relDesc": "Last year the 'Jesus Is Born' artist put up $10 million for the Roden Crater, expected to be completed in 2025. \"It's this amazing integration of nature, science and ...",
+        "relSource": "Billboard",
+        "relSourceRef": "https://news.google.com/articles/CBMie2h0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vYXJ0aWNsZXMvbmV3cy84NTUxMTI1L3p5bmdhLWZvdW5kZXItZm9sbG93cy1rYW55ZS13ZXN0LWluLWRvbmF0aW5nLTMtbWlsbGlvbi10by1qYW1lcy10dXJyZWxsLWFydNIBf2h0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vYW1wL2FydGljbGVzL25ld3MvODU1MTEyNS96eW5nYS1mb3VuZGVyLWZvbGxvd3Mta2FueWUtd2VzdC1pbi1kb25hdGluZy0zLW1pbGxpb24tdG8tamFtZXMtdHVycmVsbC1hcnQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581731786000
+      },
+      {
+        "id": 1,
+        "relTitle": "Online Gaming Billionaire Joins Kanye West in Donating Millions to James Turrell’s ‘Roden Crater’",
+        "relDesc": "Over the past four decades, artist James Turrell has worked to transform a dormant volcano in the Painted Desert of Arizona into his Land art masterwork: Roden ...",
+        "relSource": "ARTnews",
+        "relSourceRef": "https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3LmFydG5ld3MuY29tL2FydC1uZXdzL25ld3MvdHVycmVsbC1yb2Rlbi1jcmF0ZXItZ2lmdC0xMjAyNjc4MDU5L9IBT2h0dHBzOi8vd3d3LmFydG5ld3MuY29tL2FydC1uZXdzL25ld3MvdHVycmVsbC1yb2Rlbi1jcmF0ZXItZ2lmdC0xMjAyNjc4MDU5L2FtcC8?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581708960000
+      },
+      {
+        "id": 2,
+        "relTitle": "An Online-Gaming Billionaire Hopes His $3 Million Gift to James Turrell Will Make the Long-Delayed ‘Roden Crater’ a Reality",
+        "relDesc": "At a party to kick off the opening of Frieze LA, Mark Pincus gave $3 million towards the completion of James Turrell's epic 'Roden Crater.'",
+        "relSource": "artnet News",
+        "relSourceRef": "https://news.google.com/articles/CBMiTGh0dHBzOi8vbmV3cy5hcnRuZXQuY29tL2FydC13b3JsZC9qYW1lcy10dXJyZWxsLXJvZGVuLWNyYXRlci1yZWFsaXR5LTE3Nzg2NzPSAVVodHRwczovL25ld3MuYXJ0bmV0LmNvbS9hcnQtd29ybGQvamFtZXMtdHVycmVsbC1yb2Rlbi1jcmF0ZXItcmVhbGl0eS0xNzc4NjczL2FtcC1wYWdl?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581702480000
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "newsTitle": "NBA Top 10 Plays of the Night | February 14, 2020",
+    "newsDesc": "Zion Williamson's two-handed jam caused the rim to bend in Friday night's Rising Stars Challenge game, forcing United Center employees to readjust the basket ...",
+    "thumbNail": "https://img.youtube.com/vi/0x_4MaiwjR8/0.jpg",
+    "source": "NBA",
+    "sourceRef": "https://www.youtube.com/watch?v=0x_4MaiwjR8;",
+    "timeStamp": 1581747046000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Pelicans' Zion Williamson damages rim in Rising Stars Challenge",
+        "relDesc": "Zion Williamson's two-handed jam caused the rim to bend in Friday night's Rising Stars Challenge game, forcing United Center employees to readjust the basket ...",
+        "relSource": "ESPN",
+        "relSourceRef": "https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzI4NzA1MTQxL3BlbGljYW5zLXppb24td2lsbGlhbXNvbi1kYW1hZ2VzLXJpbS1yaXNpbmctc3RhcnMtY2hhbGxlbmdl0gF1aHR0cHM6Ly93d3cuZXNwbi5jb20vbmJhL3N0b3J5L18vaWQvMjg3MDUxNDEvcGVsaWNhbnMtemlvbi13aWxsaWFtc29uLWRhbWFnZXMtcmltLXJpc2luZy1zdGFycy1jaGFsbGVuZ2U_cGxhdGZvcm09YW1w?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581742762000
+      },
+      {
+        "id": 1,
+        "relTitle": "Zion Williamson & Ja Morant Put on a Dunk Contest During Last Minute of 2020 NBA Rising Stars Game",
+        "relDesc": "",
+        "relSource": "House of Highlights",
+        "relSourceRef": "https://news.google.com/articles/CCAiC2FwZHg0QlQzSFJRmAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581739413000
+      },
+      {
+        "id": 2,
+        "relTitle": "Obama wows NBA rising stars who were too young to vote for him as president",
+        "relDesc": "CHICAGO — The next generation of NBA stars delighted in a surprise visit from a former president to All-Star Weekend that was filled with motivational words.",
+        "relSource": "The Washington Post",
+        "relSourceRef": "https://news.google.com/articles/CAIiEGG3_IF7yENuXfpWcseYNUIqGAgEKg8IACoHCAowjtSUCjC30XQwmdHlAQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581739740000
+      },
+      {
+        "id": 3,
+        "relTitle": "Zion Williamson, NBA's Rising Stars awestruck by meeting former President Obama",
+        "relDesc": "New Orleans Pelicans rookie Zion Williamson found himself starstruck when he met and spoke with former President Barack Obama at an NBA Cares event in ...",
+        "relSource": "ESPN",
+        "relSourceRef": "https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzI4NzAyMTU1L3ppb24td2lsbGlhbXNvbi1uYmEtcmlzaW5nLXN0YXJzLWF3ZXN0cnVjay1tZWV0aW5nLWZvcm1lci1wcmVzaWRlbnQtb2JhbWHSAYMBaHR0cHM6Ly93d3cuZXNwbi5jb20vbmJhL3N0b3J5L18vaWQvMjg3MDIxNTUvemlvbi13aWxsaWFtc29uLW5iYS1yaXNpbmctc3RhcnMtYXdlc3RydWNrLW1lZXRpbmctZm9ybWVyLXByZXNpZGVudC1vYmFtYT9wbGF0Zm9ybT1hbXA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581708616000
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "newsTitle": "MVP Miles Bridges leads U.S. over World in Rising Stars Challenge",
+    "newsDesc": "Miles Bridges scored 20 points and took MVP honors as the U.S. beat the World 151-131 in the Rising Stars Challenge on Friday night.",
+    "thumbNail": "https://lh5.googleusercontent.com/proxy/yjLQH-LXXekg91SayzX02HFVGhaQG5j1eKFrtWdVCQNEZjHg082noTAx1mr9PnQ72A7tZ7paO02JgWwEhYoVFL0FhS5_FeV6ZgsifMOv8AH6vw=-p-h200-w200",
+    "source": "ESPN",
+    "sourceRef": "https://www.espn.com/nba/story/_/id/28705665/mvp-miles-bridges-leads-us-world-rising-stars-challenge;",
+    "timeStamp": 1581742506000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "2020 NBA Rising Stars Game | 2020 NBA All-Star",
+        "relDesc": "",
+        "relSource": "NBA",
+        "relSourceRef": "https://news.google.com/articles/CCAiC29KZ1hjR1lCcV80mAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581740197000
+      },
+      {
+        "id": 1,
+        "relTitle": "Cavaliers’ Collin Sexton shines in Team USA’s 151-131 NBA Futures Game win over World",
+        "relDesc": "Coming off the bench, Sexton scores 21 points in 20 minutes of action. Charlotte's Miles Bridges earns the MVP.",
+        "relSource": "cleveland.com",
+        "relSourceRef": "https://news.google.com/articles/CAIiEIBzLcINBfSaO01Lf352g0YqGQgEKhAIACoHCAow3qT_CjC1tPgCMOu5nwY?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581741600000
+      },
+      {
+        "id": 2,
+        "relTitle": "Luka Doncic Nails Half-Court Shot Over Trae Young - 2020 NBA Rising Stars Challenge",
+        "relDesc": "",
+        "relSource": "House of Highlights",
+        "relSourceRef": "https://news.google.com/articles/CCAiC2NzczVhRWJSQVdrmAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581737241000
+      },
+      {
+        "id": 3,
+        "relTitle": "Dallas Mavericks: Luka Doncic scores 16 in Rising Stars game",
+        "relDesc": "Dallas Mavericks star Luka Doncic started and dropped 16 points in the NBA's Rising Stars game on Feb. 14. See more from his performance to kick things off.",
+        "relSource": "The Smoking Cuban",
+        "relSourceRef": "https://news.google.com/articles/CBMiWWh0dHBzOi8vdGhlc21va2luZ2N1YmFuLmNvbS8yMDIwLzAyLzE0L2RhbGxhcy1tYXZlcmlja3MtMjAyMC1sdWthLWRvbmNpYy0xNi1yaXNpbmctc3RhcnMv0gFdaHR0cHM6Ly90aGVzbW9raW5nY3ViYW4uY29tLzIwMjAvMDIvMTQvZGFsbGFzLW1hdmVyaWNrcy0yMDIwLWx1a2EtZG9uY2ljLTE2LXJpc2luZy1zdGFycy9hbXAv?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581742440000
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "newsTitle": "Trump could take lap in presidential limo at Daytona 500: Fox Business | TheHill",
+    "newsDesc": "It's possible President Trump's appearance at the Daytona 500 on Sunday will include the presidential l.",
+    "thumbNail": "https://lh4.googleusercontent.com/proxy/wXEOfYAsifAcKaKJf3OIsFZfdCwZGsMeqIxAQWNLwfB6t1hCaUoNlz6xjV77k8K-XYnkv2V-rv-kF0-bTTT8qGL6DtVGXMB8nuvx-OaaSIRTYpECWtd332H57d6fUlqOtr5-isdOYiftLG-ulX0b67clkLDKyi1nE-uZVFwszfyC1ZBX=-p-h200-w200",
+    "source": "The Hill",
+    "sourceRef": "https://thehill.com/homenews/administration/483218-trump-could-take-lap-in-presidential-limo-at-daytona-500-fox-news;",
+    "timeStamp": 1581738484000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Trump becomes first president named Daytona 500 grand marshal",
+        "relDesc": "President Trump is taking part in this year's Daytona 500. Trump hosted NASCAR Champion Martin Truex Jr.'s team at The White House. (Jabin Botsford/The ...",
+        "relSource": "Fox News",
+        "relSourceRef": "https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2F1dG8vdHJ1bXAtcHJlc2lkZW50LWRheXRvbmEtNTAwLWdyYW5kLW1hcnNoYWzSAUpodHRwczovL3d3dy5mb3huZXdzLmNvbS9hdXRvL3RydW1wLXByZXNpZGVudC1kYXl0b25hLTUwMC1ncmFuZC1tYXJzaGFsLmFtcA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581690177000
+      },
+      {
+        "id": 1,
+        "relTitle": "Race Recap: Logano and Byron win Duel races as Yeley and Suarez miss out",
+        "relDesc": "",
+        "relSource": "NASCAR",
+        "relSourceRef": "https://news.google.com/articles/CCAiCzU1V0FacW84S2ZNmAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581657967000
+      },
+      {
+        "id": 2,
+        "relTitle": "Daytona Xfinity race will feature Trump 2020 car",
+        "relDesc": "While it's widely assumed the NASCAR audience is more pro-Trump than the general public, at least one national poll appeared to confirm this in 2018.",
+        "relSource": "Daytona Beach News-Journal",
+        "relSourceRef": "https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3Lm5ld3Mtam91cm5hbG9ubGluZS5jb20vbmV3cy8yMDIwMDIxNC9kYXl0b25hLXhmaW5pdHktcmFjZS13aWxsLWZlYXR1cmUtdHJ1bXAtMjAyMC1jYXLSAXFodHRwczovL3d3dy5uZXdzLWpvdXJuYWxvbmxpbmUuY29tL25ld3MvMjAyMDAyMTQvZGF5dG9uYS14ZmluaXR5LXJhY2Utd2lsbC1mZWF0dXJlLXRydW1wLTIwMjAtY2FyP3RlbXBsYXRlPWFtcGFydA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581678180000
+      },
+      {
+        "id": 3,
+        "relTitle": "NASCAR: I Am Nascar | Creative Works",
+        "relDesc": "Nascar is bringing some swagger back to its marketing as it releases its new campaign to kick of the race season with the Daytona 500.",
+        "relSource": "The Drum",
+        "relSourceRef": "https://news.google.com/articles/CBMiOmh0dHBzOi8vd3d3LnRoZWRydW0uY29tL2NyZWF0aXZlLXdvcmtzL3Byb2plY3QvaS1hbS1uYXNjYXLSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581695574000
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "newsTitle": "Devin Haney CONFRONTS Bernard Hopkins BACKSTAGE After Ryan Garcia WIN!",
+    "newsDesc": "In a dazzling display of timing and power, Ryan Garcia crushed Francisco Fonseca with a blazing counter left hook to score a first-round knockout Friday night at ...",
+    "thumbNail": "https://img.youtube.com/vi/jFzmTd4m3rY/0.jpg",
+    "source": "SecondsOut",
+    "sourceRef": "https://www.youtube.com/watch?v=jFzmTd4m3rY;",
+    "timeStamp": 1581749568000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Ryan Garcia rolls to first-round KO victory over Francisco Fonseca",
+        "relDesc": "In a dazzling display of timing and power, Ryan Garcia crushed Francisco Fonseca with a blazing counter left hook to score a first-round knockout Friday night at ...",
+        "relSource": "ESPN",
+        "relSourceRef": "https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LmVzcG4uY29tL2JveGluZy9zdG9yeS9fL2lkLzI4NzA2MDg5L3J5YW4tZ2FyY2lhLXJvbGxzLWZpcnN0LXJvdW5kLWtvLXZpY3RvcnktZnJhbmNpc2NvLWZvbnNlY2HSAXdodHRwczovL3d3dy5lc3BuLmNvbS9ib3hpbmcvc3RvcnkvXy9pZC8yODcwNjA4OS9yeWFuLWdhcmNpYS1yb2xscy1maXJzdC1yb3VuZC1rby12aWN0b3J5LWZyYW5jaXNjby1mb25zZWNhP3BsYXRmb3JtPWFtcA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581746484000
+      },
+      {
+        "id": 1,
+        "relTitle": "Ryan Garcia Destroys Francisco Fonseca - One Punch, One Round",
+        "relDesc": "ANAHEIM - Ryan Garcia only needed less than one round to knock Francisco Fonseca out. Not only did Garcia score a knockout, it was a devastating knockout ...",
+        "relSource": "BoxingScene.com",
+        "relSourceRef": "https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LmJveGluZ3NjZW5lLmNvbS9yeWFuLWdhcmNpYS1kZXN0cm95cy1mcmFuY2lzY28tZm9uc2VjYS1yZXN1bHRzLS0xNDY3NjHSAQA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581742728000
+      },
+      {
+        "id": 2,
+        "relTitle": "Ryan Garcia KOs Francisco Fonseca in first round, retains WBC silver lightweight title",
+        "relDesc": "California boxer Ryan Garcia wasted little time in defending his WBC silver lightweight title Friday night, knocking out Costa Rican challenger Francisco Fonseca ...",
+        "relSource": "Fox News",
+        "relSourceRef": "https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3Nwb3J0cy9yeWFuLWdhcmNpYS1rb3MtZnJhbmNpc2NvLWZvbnNlY2EtaW4tZmlyc3Qtcm91bmQtcmV0YWlucy13YmMtc2lsdmVyLWxpZ2h0d2VpZ2h0LXRpdGxl0gF4aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vc3BvcnRzL3J5YW4tZ2FyY2lhLWtvcy1mcmFuY2lzY28tZm9uc2VjYS1pbi1maXJzdC1yb3VuZC1yZXRhaW5zLXdiYy1zaWx2ZXItbGlnaHR3ZWlnaHQtdGl0bGUuYW1w?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581753842000
+      },
+      {
+        "id": 3,
+        "relTitle": "Ryan Garcia vs Fonseca: Live streaming round by round coverage, 7 pm ET",
+        "relDesc": "Ryan Garcia takes on Francisco Fonseca as the 21-year-old star looks to move on to bigger challenges in 2020.",
+        "relSource": "Bad Left Hook",
+        "relSourceRef": "https://news.google.com/articles/CBMikwFodHRwczovL3d3dy5iYWRsZWZ0aG9vay5jb20vMjAyMC8yLzE0LzIxMTM3MTIwL3J5YW4tZ2FyY2lhLXZzLWZyYW5jaXNjby1mb25zZWNhLWxpdmUtc3RyZWFtaW5nLXJlc3VsdHMtcm91bmQtYnktcm91bmQtZGlzY3Vzc2lvbi1kYXpuLWJveGluZy1zdHJlYW3SAaABaHR0cHM6Ly93d3cuYmFkbGVmdGhvb2suY29tL3BsYXRmb3JtL2FtcC8yMDIwLzIvMTQvMjExMzcxMjAvcnlhbi1nYXJjaWEtdnMtZnJhbmNpc2NvLWZvbnNlY2EtbGl2ZS1zdHJlYW1pbmctcmVzdWx0cy1yb3VuZC1ieS1yb3VuZC1kaXNjdXNzaW9uLWRhem4tYm94aW5nLXN0cmVhbQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581681600000
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "newsTitle": "Astronomers to sweep entire sky for signs of extraterrestrial life",
+    "newsDesc": "Astronomers will sweep the entire sky for signs of extraterrestrial life for the first time, using 28 giant radio telescopes in an unprecedented hunt for alien ...",
+    "thumbNail": "https://lh3.googleusercontent.com/YYGqFMVkK7FCDfuYmkbeei-ue3jv0Qouiy7MIFgLvZAhfD1AOQTqyOr20HPWqTwUoK1uPcyPpBDwjnAxZCc=-p-h200-w200",
+    "source": "The Guardian",
+    "sourceRef": "https://www.theguardian.com/science/2020/feb/15/astronomers-to-sweep-entire-sky-for-signs-of-extraterrestrial-life;",
+    "timeStamp": 1581724860000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "SETI search of interstellar Comet Borisov finds no sign of alien 'technosignatures'",
+        "relDesc": "The Breakthrough Listen SETI project has scanned the interstellar Comet Borisov for \"technosignatures\" but come up empty so far.",
+        "relSource": "Space.com",
+        "relSourceRef": "https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LnNwYWNlLmNvbS9pbnRlcnN0ZWxsYXItY29tZXQtYm9yaXNvdi1zZXRpLXRlY2hub3NpZ25hdHVyZXMtc2VhcmNoLmh0bWzSAVZodHRwczovL3d3dy5zcGFjZS5jb20vYW1wL2ludGVyc3RlbGxhci1jb21ldC1ib3Jpc292LXNldGktdGVjaG5vc2lnbmF0dXJlcy1zZWFyY2guaHRtbA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581725820000
+      },
+      {
+        "id": 1,
+        "relTitle": "New technologies, strategies expanding search for extraterrestrial life",
+        "relDesc": "Emerging technologies and new strategies are opening a revitalized era in the Search for Extraterrestrial Intelligence (SETI). New discovery capabilities, along ...",
+        "relSource": "Phys.org",
+        "relSourceRef": "https://news.google.com/articles/CAIiEKclQ1YWOArJbbE5b6ocL5AqGAgEKg8IACoHCAowpbDpAzCm_hww3-XGBg?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581724801000
+      },
+      {
+        "id": 2,
+        "relTitle": "The Guardian view on looking for aliens: friends in the sky?",
+        "relDesc": "Recent discoveries in space and Earth sciences have provided encouragement to searchers for distant civilisations.",
+        "relSource": "The Guardian",
+        "relSourceRef": "https://news.google.com/articles/CAIiECnvm4Tb8o1b2mKQSbvMqpgqFggEKg4IACoGCAowl6p7MN-zCTC9vBU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581730620000
+      },
+      {
+        "id": 3,
+        "relTitle": "Scientists Need Help Looking for Aliens in Massive New Trove of SETI Data",
+        "relDesc": "The Breakthrough Listen project just released two petabytes of SETI data, and anyone from scientists to coders with experience in Python and a bit of gumption ...",
+        "relSource": "VICE",
+        "relSourceRef": "https://news.google.com/articles/CAIiEEeqZCvMI6t2ef3pOiuxUikqFwgEKg4IACoGCAowis8wMLmCBjCfodQD?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581724800000
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "newsTitle": "Puppy love! Astronaut's reunion with her dog after a nearly yearlong flight made us cry",
+    "newsDesc": "After spending a record-breaking 328 days in space, NASA astronaut Christina Koch returned to Earth and reunited with the furriest member of her family: her ...",
+    "thumbNail": "https://lh5.googleusercontent.com/proxy/1kLqS51vHF4a69FZMoJp6-4pAExqPtbTio9xhTYZpl45Eiv-CnCo26Beawo5HpfSkJq_fxyJSb2ROibkgJu72iZKSNbpiRxcmTPk40rCKw=-p-h200-w200",
+    "source": "Space.com",
+    "sourceRef": "https://www.space.com/nasa-astronaut-christina-koch-dog-reunion.html;",
+    "timeStamp": 1581719100000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "A Budget for a New Era of Space Exploration on This Week @NASA – February 14, 2020",
+        "relDesc": "",
+        "relSource": "NASA",
+        "relSourceRef": "https://news.google.com/articles/CCAiC3RHMWtDSXBJUUJ3mAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581713181000
+      },
+      {
+        "id": 1,
+        "relTitle": "Astronaut’s dog goes bonkers when she returns home from year in space, video shows",
+        "relDesc": "The end of NC State grad Christina Koch's year in space included a reunion with her dog LBD, and a video of its overwhelmed reaction is getting millions of ...",
+        "relSource": "Fort Worth Star-Telegram",
+        "relSourceRef": "https://news.google.com/articles/CAIiEDO2kfk5pRLYWqQO-AHbuvAqGQgEKhAIACoHCAowmtmECzC5yIEDMJf5gwY?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581680580000
+      },
+      {
+        "id": 2,
+        "relTitle": "Astronaut shares adorable reunion with dog after 328 days in space",
+        "relDesc": "(WSVN) - A NASA astronaut shared video of the moment she greeted her dog after spending almost a year in space. In the video, astronaut Christina Koch's dog ...",
+        "relSource": "WSVN 7News | Miami News, Weather, Sports | Fort Lauderdale",
+        "relSourceRef": "https://news.google.com/articles/CBMiYmh0dHBzOi8vd3N2bi5jb20vbmV3cy91cy13b3JsZC9hc3Ryb25hdXQtc2hhcmVzLWFkb3JhYmxlLXJldW5pb24td2l0aC1kb2ctYWZ0ZXItMzI4LWRheXMtaW4tc3BhY2Uv0gFmaHR0cHM6Ly93c3ZuLmNvbS9uZXdzL3VzLXdvcmxkL2FzdHJvbmF1dC1zaGFyZXMtYWRvcmFibGUtcmV1bmlvbi13aXRoLWRvZy1hZnRlci0zMjgtZGF5cy1pbi1zcGFjZS9hbXAv?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581683912000
+      },
+      {
+        "id": 3,
+        "relTitle": "Astronaut Christina Koch's Dog Welcomes Her Home After A Year In Space | The 11th Hour | MSNBC",
+        "relDesc": "",
+        "relSource": "MSNBC",
+        "relSourceRef": "https://news.google.com/articles/CCAiC2Fvc0VoMFdENDdZmAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581659603000
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "newsTitle": "The Further Adventures of Betelgeuse, the Fainting Star",
+    "newsDesc": "Betelgeuse, the red supergiant star that marks the armpit of Orion the Hunter, has been dramatically and mysteriously dimming for the last six months.",
+    "thumbNail": "https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32",
+    "source": "The New York Times",
+    "sourceRef": "https://www.nytimes.com/2020/02/14/science/betelgeuse-pictures-supernova.html;",
+    "timeStamp": 1581712200000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Will Betelgeuse Explode? After ‘Unprecedented’ Dimming The Giant Star Is Now Changing Shape",
+        "relDesc": "Spectacular new images reveal that red supergiant star Betelgeuse isn't just dimming, but could also be changing shape.",
+        "relSource": "Forbes",
+        "relSourceRef": "https://news.google.com/articles/CAIiEJAxUqp8-6G2t_n7sEiad2wqFQgEKg0IACoGCAowrqkBMKBFMMGBAg?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581690005000
+      },
+      {
+        "id": 1,
+        "relTitle": "New image shows Betelgeuse isn’t dimming evenly",
+        "relDesc": "From Earth's perspective, one of the brightest stars in the sky is the red supergiant Betelgeuse. Found in the constellation of Orion, it's large enough and close ...",
+        "relSource": "Ars Technica",
+        "relSourceRef": "https://news.google.com/articles/CBMiV2h0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NjaWVuY2UvMjAyMC8wMi9uZXctaW1hZ2Utc2hvd3MtYmV0ZWxnZXVzZS1pc250LWRpbW1pbmctZXZlbmx5L9IBXWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NjaWVuY2UvMjAyMC8wMi9uZXctaW1hZ2Utc2hvd3MtYmV0ZWxnZXVzZS1pc250LWRpbW1pbmctZXZlbmx5Lz9hbXA9MQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581703380000
+      },
+      {
+        "id": 2,
+        "relTitle": "When Betelgeuse goes supernova, what will it look like from Earth?",
+        "relDesc": "Astronomers simulated what humans will see on Earth when the star Betelgeuse explodes as a supernova sometime in the next 100000 years.",
+        "relSource": "Astronomy Magazine",
+        "relSourceRef": "https://news.google.com/articles/CBMiY2h0dHBzOi8vYXN0cm9ub215LmNvbS9uZXdzLzIwMjAvMDIvd2hlbi1iZXRlbGdldXNlLWdvZXMtc3VwZXJub3ZhLXdoYXQtd2lsbC1pdC1sb29rLWxpa2UtZnJvbS1lYXJ0aNIBAA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581702948000
+      },
+      {
+        "id": 3,
+        "relTitle": "New photos show Betelgeuse star's unprecedented dimming",
+        "relDesc": "Astronomers have been warning of the dimming of Betelgeuse, the red supergiant star that acts as the shoulder of Orion in his constellation. Now, they've shared ...",
+        "relSource": "CNN",
+        "relSourceRef": "https://news.google.com/articles/CAIiENyspuViXDjvNJYEIjPEcjkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581699120000
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "newsTitle": "NASA gives four projects $3 million to develop potential space missions",
+    "newsDesc": "NASA has announced four projects as part of its Discovery Program, which sees the space agency asking scientists to pitch focused, relatively low-cost missions ...",
+    "thumbNail": "https://lh3.googleusercontent.com/AuihPWQdofAx2MEutsP_vWItgO9LGHN_v7GYl39Qc5SGLhP4WQMLNFgyjSMcywlbTSriGGGl8l0UUrqbNSk=-p-h200-w200",
+    "source": "Engadget",
+    "sourceRef": "https://www.engadget.com/2020/02/14/nasa-discovery-program-2020/;",
+    "timeStamp": 1581726152000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "NASA missions could uncover secrets on Venus, Io and Triton",
+        "relDesc": "In order to further explore our solar system, NASA has chosen four proposals for missions that would investigate Venus, Jupiter's moon Io and Neptune's moon ...",
+        "relSource": "CNN",
+        "relSourceRef": "https://news.google.com/articles/CAIiEElEC80FO2rURy9dX3BxogoqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581712800000
+      },
+      {
+        "id": 1,
+        "relTitle": "Four Shortlisted NASA Missions Would Explore the Nastiest Places in the Solar System",
+        "relDesc": "As part of its ongoing Discovery Program, NASA has selected four possible missions that would involve some of the most hostile and enigmatic places in the ...",
+        "relSource": "Gizmodo",
+        "relSourceRef": "https://news.google.com/articles/CAIiEEBKfo8uaS_qxLdNiyTRIa4qFggEKg0IACoGCAowlIECMLBMMJnrngY?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581702720000
+      },
+      {
+        "id": 2,
+        "relTitle": "NASA eyes Venus, bizarre moons of Jupiter and Neptune for low-cost space missions",
+        "relDesc": "Venus, Jupiter's supervolcanic moon Io and Neptune's big satellite Triton are in NASA's crosshairs.",
+        "relSource": "Space.com",
+        "relSourceRef": "https://news.google.com/articles/CBMiQWh0dHBzOi8vd3d3LnNwYWNlLmNvbS9uYXNhLWRpc2NvdmVyeS1taXNzaW9uLXZlbnVzLWlvLXRyaXRvbi5odG1s0gFFaHR0cHM6Ly93d3cuc3BhY2UuY29tL2FtcC9uYXNhLWRpc2NvdmVyeS1taXNzaW9uLXZlbnVzLWlvLXRyaXRvbi5odG1s?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581692400000
+      },
+      {
+        "id": 3,
+        "relTitle": "NASA selects four finalists for next Discovery mission",
+        "relDesc": "WASHINGTON — NASA is considering missions to Venus and two outer solar system moons as the next in its Discovery line of planetary science missions.",
+        "relSource": "SpaceNews",
+        "relSourceRef": "https://news.google.com/articles/CBMiTWh0dHBzOi8vc3BhY2VuZXdzLmNvbS9uYXNhLXNlbGVjdHMtZm91ci1maW5hbGlzdHMtZm9yLW5leHQtZGlzY292ZXJ5LW1pc3Npb24v0gEA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581681674000
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "newsTitle": "5 U.S. cities to start testing patients with flu-like symptoms for coronavirus",
+    "newsDesc": "Doctors in five U.S. cities will begin testing patients with flu-like symptoms for the new coronavirus, the Centers for Disease Control and Prevention said Friday.",
+    "thumbNail": "https://lh3.googleusercontent.com/W8cZb34CEvIQRTyfNDaY36bVNRD-l2_4HvBUyU_U3OMN1wKCP6-Ab4WlReTWF47p_qJpWbczlJ6Y7i7frQ=-p-h200-w200",
+    "source": "NBC News",
+    "sourceRef": "https://www.nbcnews.com/health/health-news/5-u-s-cities-start-testing-patients-flu-symptoms-coronavirus-n1136941;",
+    "timeStamp": 1581718800000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "CDC confirms 15th coronavirus case in U.S. as number of cases in China skyrockets",
+        "relDesc": "",
+        "relSource": "CBS News",
+        "relSourceRef": "https://news.google.com/articles/CCAiC0lHcmkyU1ZPbnFNmAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581694913000
+      },
+      {
+        "id": 1,
+        "relTitle": "San Juan County resident being tested for coronavirus",
+        "relDesc": "SAN JUAN COUNTY -- A San Juan County resident is being tested for novel coronavirus (COVID-19), the first potential case of the virus in the county.",
+        "relSource": "Q13 News Seattle",
+        "relSourceRef": "https://news.google.com/articles/CAIiEPzXNUbRHkdGkQAv51ixPIkqGQgEKhAIACoHCAow0Iz_CjD7__cCMOO75AU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581698460000
+      },
+      {
+        "id": 2,
+        "relTitle": "Flu activity high among children",
+        "relDesc": "",
+        "relSource": "WPTV News | West Palm Beach Florida",
+        "relSourceRef": "https://news.google.com/articles/CCAiC2dPUUZHRW5wdGM4mAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581740547000
+      },
+      {
+        "id": 3,
+        "relTitle": "Coronavirus testing to begin at labs in SF",
+        "relDesc": "Public health authorities plan to start widespread surveillance for the new coronavirus in five U.S. cities, including San Francisco, by tapping into an existing ...",
+        "relSource": "San Francisco Chronicle",
+        "relSourceRef": "https://news.google.com/articles/CAIiELaEcQV4dF4BOsOhmPvOd_wqGQgEKhAIACoHCAowk-T4CjDyst8CMPiZsgU?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581725026000
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "newsTitle": "Flu season is getting weirder",
+    "newsDesc": "Coronavirus may be in the headlines, but it's still flu season, and a weird one at that — officials are seeing a new spike in flu activity as a second strain of flu hits ...",
+    "thumbNail": "https://lh3.googleusercontent.com/proxy/XC2Kd1w17aqTQ7rlW4q59rYQLM31RInF6kOv6TjaLSz68e7bjwFLv4d2B1ejm2H-G1Tto3ImLTOLPTje_3WNRKBNj54okzeNIm8iBzjZCQ=-p-h200-w200",
+    "source": "Livescience.com",
+    "sourceRef": "https://www.livescience.com/flu-season-weird-h1n1-increase.html;",
+    "timeStamp": 1581722100000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "Flu Season Is Worst for Children in a Decade, CDC Data Shows",
+        "relDesc": "The number of pediatric deaths from influenza is higher at this point in the flu season than it has been in a decade as a second wave of the virus picked up steam ...",
+        "relSource": "The Weather Channel",
+        "relSourceRef": "https://news.google.com/articles/CBMiXWh0dHBzOi8vd2VhdGhlci5jb20vaGVhbHRoL2NvbGQtZmx1L25ld3MvMjAyMC0wMi0xNC13b3JzdC1mbHUtc2Vhc29uLWZvci1jaGlsZHJlbi1pbi1hLWRlY2FkZdIBAA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581713100000
+      },
+      {
+        "id": 1,
+        "relTitle": "Weighing the dangers of coronavirus against the flu",
+        "relDesc": "",
+        "relSource": "CBC News: The National",
+        "relSourceRef": "https://news.google.com/articles/CCAiC3JTTWNlMWhUNE40mAEB?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581736461000
+      },
+      {
+        "id": 2,
+        "relTitle": "Flu severity in Mass. increases to ‘very high’ ahead of school vacation week",
+        "relDesc": "The Massachusetts Department of Public Health says influenza severity in Mass. has now increased to “very high,” the highest on its rating scale.",
+        "relSource": "Boston 25 News",
+        "relSourceRef": "https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LmJvc3RvbjI1bmV3cy5jb20vbmV3cy9sb2NhbC9kcGgtZmx1LXNldmVyaXR5LW1hc3Mtbm93LXZlcnktaGlnaC9SQ0FUM1VWNlk1QTUzTjVSUkI0TzRVSUhHQS_SAXZodHRwczovL3d3dy5ib3N0b24yNW5ld3MuY29tL25ld3MvbG9jYWwvZHBoLWZsdS1zZXZlcml0eS1tYXNzLW5vdy12ZXJ5LWhpZ2gvUkNBVDNVVjZZNUE1M041UlJCNE80VUlIR0EvP291dHB1dFR5cGU9YW1w?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581713518000
+      },
+      {
+        "id": 3,
+        "relTitle": "Editorial: You’re more likely to encounter this disease in the Poconos than coronavirus",
+        "relDesc": "Pennsylvania has an interesting relationship with the flu.Influenza, the disease responsible for killing thousands of Americans each year, is not the season's ...",
+        "relSource": "Pocono Record",
+        "relSourceRef": "https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3LnBvY29ub3JlY29yZC5jb20vb3Bpbmlvbi8yMDIwMDIxMy9lZGl0b3JpYWwteW91cmUtbW9yZS1saWtlbHktdG8tZW5jb3VudGVyLXRoaXMtZGlzZWFzZS1pbi1wb2Nvbm9zLXRoYW4tY29yb25hdmlydXPSAY8BaHR0cHM6Ly93d3cucG9jb25vcmVjb3JkLmNvbS9vcGluaW9uLzIwMjAwMjEzL2VkaXRvcmlhbC15b3VyZS1tb3JlLWxpa2VseS10by1lbmNvdW50ZXItdGhpcy1kaXNlYXNlLWluLXBvY29ub3MtdGhhbi1jb3JvbmF2aXJ1cz90ZW1wbGF0ZT1hbXBhcnQ?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581636660000
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "newsTitle": "CDC confirms 15th case of coronavirus in the United States",
+    "newsDesc": "Gallery by photo services. (Reuters) - U.S. officials reported the 15th case of coronavirus in the United States on Thursday, saying the patient was among those ...",
+    "thumbNail": "https://lh6.googleusercontent.com/proxy/Pg3844__D7Z9f6E4TOq8Ar95lMjW9oOJmPbJ5qtWHUAugi4elGWFTaeSjV9gh7cfEIrbROO8EYdQ7G-Dvoq3fCJ4PdgFIf3riDRNoYocHYPMvBPE-or6RNDnqRptB5fCJM_xXnx640A463mrYt44q_p0l7pYSB1TKf8WNFAa9ifL0dv1_U58qg=-p-h200-w200",
+    "source": "msnNOW",
+    "sourceRef": "https://www.msn.com/en-us/news/us/cdc-confirms-15th-case-of-coronavirus-in-the-united-states/ar-BBZXRvM?li=BBnb7Kz;",
+    "timeStamp": 1581610020000,
+    "relatedNews": [
+      {
+        "id": 0,
+        "relTitle": "CDC: Patient under quarantine at Joint Base San Antonio-Lackland has coronavirus",
+        "relDesc": "A patient under quarantine at Joint Base San Antonio-Lackland has been diagnosed with novel coronavirus, according to the Centers for Disease Control.",
+        "relSource": "Chron.com",
+        "relSourceRef": "https://news.google.com/articles/CBMiY2h0dHA6Ly93d3cuY2hyb24uY29tL25ld3MvbG9jYWwvYXJ0aWNsZS9TYW4tQW50b25pby1oZWFsdGgtb2ZmaWNpYWxzLXNldC10by1ob2xkLXByZXNzLTE1MDUzNDMwLnBocNIBAA?hl=en-US&gl=US&ceid=US%3Aen",
+        "relTimeStamp": 1581609300000
+      }
+    ]
+  }
+]

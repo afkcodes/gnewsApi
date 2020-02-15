@@ -1,5 +1,6 @@
 const cheerio = require('cheerio');
 const request = require('request');
+const fs = require('fs')
 const userAgents = require('./userAgents');
 
 const headLines = []
@@ -17,40 +18,17 @@ function callback(error, response, body) {
     }
 }
 
-
 function extractInfo(info) {
     const $ = cheerio.load(info);
-    const a = Array.from($('[jscontroller="d0DtYd"]'));
-    const b = Array.from($(a).find('.SbNwzf') )
-    b.forEach((el, index)=>{
-        if (index == 0){
-            // console.log($($(el)).hasClass('.ipQwMb.ekueJc.RD0gLb').text());
-            // console.log('Title :::::', $(el).find('.ipQwMb.ekueJc.RD0gLb').first().text());
-            c = Array.from($(el).children());
-            c.forEach((ele, index)=>{
-            //     console.log($(ele).find('h4').text());
-            //     console.log($(ele).find('.xBbh9').text());
-                console.log($(ele).find('.ipQwMb.ekueJc.RD0gLb').find('a').attr('href').replace('./','https://news.google.com/'));
+    const rawHeadlines = Array.from($('[jscontroller="d0DtYd"]'));
+    const rawRelated = Array.from($(rawHeadlines).find('.SbNwzf') )
 
+    extractHeadlines(rawHeadlines);
+    extractRelated(rawRelated)
 
-            })
-            // console.log('\n ************************************************ \n');
-
-            // console.log('Image :::::', $(el).find('img').attr('src'))
-            // console.log('sourceLink :::::', $(el).find('article').attr('jslog').match(/\bhttps?:\/\/\S+/gi)[0])
-            // console.log('Source :::::', $(el).find('.wEwyrc.AVN2gc.uQIVzc').first().text())
-            // console.log('Time :::::', $(el).find('time').attr('datetime'))
+    console.log(rawHeadlines.length)
+    console.log(rawRelated.length)
         }
-    })
-    // extractHeadlines(a);
-
-    console.log(a.length)
-    console.log(b.length)
-
-    // console.log(c.length)
-
-    
-}
 
 function crawlNews() {
     try {
@@ -60,16 +38,19 @@ function crawlNews() {
         console.log(error);
     }
 }
-function extractHeadlines(rawData){
-    const $ = cheerio.load(rawData);
-    rawData.forEach((el, index)=>{
+
+function extractHeadlines(rawHeadlines){
+    const $ = cheerio.load(rawHeadlines);
+    rawHeadlines.forEach((el, index)=>{
             const id = index;
-            const newsTitle = $(el).find('.ipQwMb.ekueJc.RD0gLb').first().text();
+            const newsTitle = $(el)
+                .find('.ipQwMb.ekueJc.RD0gLb').first().text();
             const newsDesc = $(el).find('.xBbh9').first().text();
             const thumbNail = $(el).find('img').attr('src');
             const source = $(el).find('.wEwyrc.AVN2gc.uQIVzc').first().text();
-            const sourceRef = $(el).find('article').attr('jslog').match(/\bhttps?:\/\/\S+/gi)[0];
-            const timeStamp = $(el).find('time').attr('datetime');
+            const sourceRef = $(el).find('article')
+                .attr('jslog').match(/\bhttps?:\/\/\S+/gi)[0];
+            const timeStamp = Date.parse($(el).find('time').attr('datetime'));
 
             headLines.push({
                 id,
@@ -81,8 +62,40 @@ function extractHeadlines(rawData){
                 timeStamp
             })
     })
-    console.log(headLines)
-    
+}
+function extractRelated(rawRelated){
+    const $ = cheerio.load(rawRelated);
+    let related = []
+    rawRelated.forEach((el, indexmain)=>{
+            relatedChilds = Array.from($(el).children());
+            relatedChilds.forEach((el, index)=>{
+                const id = index;
+                const relTitle= $(el).find('h4').text();
+                const relDesc= $(el).find('.xBbh9').text();
+                const relSource = $(el).find('.SVJrMe')
+                    .find('.wEwyrc.AVN2gc.uQIVzc').text();
+                const relSourceRef= $(el).find('.ipQwMb.ekueJc.RD0gLb')
+                    .find('a').attr('href')
+                    .replace('./','https://news.google.com/');
+                const relTimeStamp= Date.parse($(el)
+                    .find('time').attr('datetime'));
+                related.push({
+                    id,
+                    relTitle,
+                    relDesc,
+                    relSource,
+                    relSourceRef,
+                    relTimeStamp
+                })
+            })
+        headLines[indexmain].relatedNews = related
+        related=[]
+    })
+    writefile('headlines',headLines)
+}
+function writefile(file_name, data) {
+    fs.writeFileSync(`${'./news_data/' + file_name + '.json'}`,
+      JSON.stringify(data, null, 2));
 }
 
 crawlNews();
