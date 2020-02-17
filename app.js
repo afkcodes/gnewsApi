@@ -17,22 +17,33 @@ const headLines = []
 //     }
 // };
 
-function callback(error, response, body) {
-    if (!error && response.statusCode == 200) {
-        extractInfo(body)
-    }
-}
+// function callback(error, response, body) {
+//     if (!error && response.statusCode == 200) {
+//         extractInfo(body)
+//     }
+// }
 
-function extractInfo(info) {
+function extractInfo(info, type) {
     const $ = cheerio.load(info);
     const rawHeadlines = Array.from($('[jscontroller="d0DtYd"]'));
-    const rawRelated = Array.from($(rawHeadlines).find('.SbNwzf') )
+    const rawSection = Array.from($(rawHeadlines).find('.xrnccd.F6Welf.R7GTQ'));
+    const rawRelated = Array.from($(rawHeadlines).find('.SbNwzf'));
 
-    extractHeadlines(rawHeadlines);
-    extractRelated(rawRelated)
-
-    console.log(rawHeadlines.length)
-    console.log(rawRelated.length)
+    if (type === 'top_news' || type === 'topics') {
+        extractHeadlines(rawHeadlines);
+        extractRelated(rawRelated);
+        
+        //Print How Many Data 
+        console.log(rawHeadlines.length)
+        console.log(rawRelated.length)
+    } else if (type === 'section') {
+        extractHeadlines(rawSection);
+        extractRelated(rawRelated)
+        
+        //Print How Many Data 
+        console.log(rawSection.length)
+        console.log(rawRelated.length)
+    }
         }
 
 async function crawlNews() {
@@ -41,7 +52,7 @@ async function crawlNews() {
     await page.goto('https://news.google.com/?hl=en-IN&gl=IN&ceid=IN:en');
     const info = await page.content();
     if(info){
-        extractInfo(info)
+        extractInfo(info, 'section')
     }
 
     await browser.close();
