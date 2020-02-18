@@ -26,7 +26,7 @@ const headLines = []
 function extractInfo(info, type) {
     const $ = cheerio.load(info);
     const rawHeadlines = Array.from($('[jscontroller="d0DtYd"]'));
-    const rawSection = Array.from($(rawHeadlines).find('.xrnccd.F6Welf.R7GTQ'));
+    const rawSection = Array.from($('.xrnccd'));
     const rawRelated = Array.from($(rawHeadlines).find('.SbNwzf'));
 
     if (type === 'top_news' || type === 'topics') {
