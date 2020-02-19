@@ -6,12 +6,16 @@ const cheerio = require('cheerio');
 const puppeteer = require('puppeteer');
 const fs = require('fs')
 
+const { baseUrl, topics, sections, lang, country } = require('./constants')
+
+
+// console.log(`https://news.google.com/?hl=${lang.en}-${country.us}&gl=${country.us}&ceid=${country.us}:${lang.en}`)
 
 const headLines = []
 
 //  TODO: Remove Request Completely
 // const options = {
-//     url: 'https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pKVGlnQVAB/sections/CAQiT0NCQVNOUW9JTDIwdk1EWnRjVGNTQldWdUxVZENHZ0pKVGlJUUNBUWFEQW9LTDIwdk1EUTJOak15Y3lvTUVnb3ZiUzh3TkRZMk16SnpLQUEqLggAKioICiIkQ0JBU0ZRb0lMMjB2TURadGNUY1NCV1Z1TFVkQ0dnSkpUaWdBUAFQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen',
+//     url: 'https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ/sections/CAQiR0NCQVNMd29JTDIwdk1HdDBOVEVTQldWdUxVZENJZzhJQkJvTENna3ZiUzh3TVcxM01uZ3FDeElKTDIwdk1ERnRkeko0S0FBKikIAColCAoiH0NCQVNFUW9JTDIwdk1HdDBOVEVTQldWdUxVZENLQUFQAVAB?hl=en-IN&gl=IN&ceid=IN%3Aen',
 //     headers: {
 //         'User-Agent': userAgents[Math.floor(Math.random() * userAgents.length)]
 //     }
@@ -19,7 +23,9 @@ const headLines = []
 
 // function callback(error, response, body) {
 //     if (!error && response.statusCode == 200) {
-//         extractInfo(body)
+//         extractInfo(body, 'section')
+//     }else{
+//         console.log('eror')
 //     }
 // }
 
@@ -46,13 +52,15 @@ function extractInfo(info, type) {
     }
         }
 
-async function crawlNews() {
+async function crawlNews(country_code, language) {
+    console.log('BOOOM12345 ', lang[language]);
+    console.log('BOOOM ', lang[language]);
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
-    await page.goto('https://news.google.com/?hl=en-IN&gl=IN&ceid=IN:en');
+    await page.goto(`https://news.google.com/?hl=${lang[language]}-${country[country_code]}&gl=${country[language]}&ceid=${country[country_code]}:${lang[language]}`);
     const info = await page.content();
     if(info){
-        extractInfo(info, 'section')
+        extractInfo(info, 'top_news');
     }
 
     await browser.close();
@@ -119,11 +127,11 @@ function extractRelated(rawRelated){
         headLines[indexmain].relatedNews = related
         related=[]
     })
-    writefile('headlines',headLines)
+    writefile('testdynamic',headLines)
 }
 function writefile(file_name, data) {
     fs.writeFileSync(`${'./news_data/' + file_name + '.json'}`,
       JSON.stringify(data, null, 2));
 }
 
-crawlNews();
+crawlNews('in','hi'); 
