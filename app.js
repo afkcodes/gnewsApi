@@ -59,7 +59,7 @@ function getSectionPath (info) {
 
 }
 
-async function crawlNews(country_code, language, topic, section) {
+const crawl = function crawlNews(country_code, language, topic, section) {
     uri = `https://news.google.com/?hl=${lang[language]}-${country[country_code]}&gl=${country[country_code]}&ceid=${country[country_code]}:${lang[language]}`;
 
     if(topic && section === undefined){
@@ -151,11 +151,12 @@ function extractRelated(rawRelated){
         headLines[indexmain].relatedNews = related
         related=[]
     })
-    writefile('cricket',headLines)
+    writefile('Headlines',headLines)
 }
 function writefile(file_name, data) {
     fs.writeFileSync(`${'./news_data/' + file_name + '.json'}`,
       JSON.stringify(data, null, 2));
 }
 
-crawlNews('uk', 'en', 'business'); 
+// crawlNews('uk', 'en', 'business'); 
+module.exports = crawl;
