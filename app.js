@@ -109,7 +109,8 @@ function extractHeadlines(rawHeadlines){
             const thumbNail = $(el).find('img').attr('src');
             const source = $(el).find('.wEwyrc.AVN2gc.uQIVzc').first().text();
             const sourceRef = $(el).find('article')
-                .attr('jslog').match(/\bhttps?:\/\/\S+/gi)[0];
+                    .find('a').attr('href')
+                    .replace('./','https://news.google.com/');
             const timeStamp = Date.parse($(el).find('time').attr('datetime'));
 
             headLines.push({
@@ -158,5 +159,5 @@ function writefile(file_name, data) {
       JSON.stringify(data, null, 2));
 }
 
-// crawlNews('uk', 'en', 'business'); 
-module.exports = crawl;
+crawl('in', 'en',); 
+// module.exports = crawl;
